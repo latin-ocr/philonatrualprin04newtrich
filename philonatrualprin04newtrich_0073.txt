@@ -1,0 +1,96 @@
+LmERTEnTms] PRINCIPIA MATHEMATICA. 55
+
+A est ad. sinum maximum, ut sinus summae angulorum F T N -Ι- Α Τ Ν
+ἃᾶ radium: hoc est fere ut sinus duplae distantiae Solis a loco nodi medio
+(nempe 2 F T N) ad radium.
+
+Scholium.
+
+“ Si motus nodorum mediocris horarius in quadraturis sit 16''. 16'''.
+37¹& 42& hoc estin anno toto sidereo 39⁰. 38'. 7''. 50'“. (1) erit T H ad
+T K in subduplicata ratione numeri 9,082764 ad numerum 10,0827646‚
+
+hoc est ut 18,6524761 ad 19,6524761. Et propterea T H ad H K ut
+18,6524761.ad 1. hoc est ut motus Solis in anno sidereo ad motum nodi
+medium 19⁰. 18'. 1''. 23¹}m. ⁸
+
+‘⁶ At si motus medius nodorum Lunae in 20 annis J ulianis sit 360⁰. 50'.
+15'‘. sicut ex observationibus in theoria Lunae adhibitis deducitur, motus
+medius nodorum in anno sidereo erit 19⁰. 20². 31''. 58'‘'. Et T H erit
+ad H K ut 3603& ad 19⁰. 20'. 3l''. 58'“. hoc est ut 18,61214 ,ad 1. unde
+
+communem et rectos x et G est T F ad T G ut
+F X ad Χ x, et propter triangula similia u V T,
+x X TesseVu ad TV sive T F ut Xx ad TX
+sive B T ; unde ex perturbato ordine sit V u ad
+TGut FXsive FG÷BGadBT5est
+(F G -ἧ- Β G) T G
+V u ⁶
+Ex hoc Lemmate facile probatur sinum aequa-
+tionis in quovis loco esse ad sinum aequationis
+maximae ut sinus summae angulorum F T N -Ι-
+A T N ad radium3 nam ex principiis trigono-
+metricis, est sinus aequationis quaesitae sive sinus
+anguli F T B ad sinum anguli F (qui est T G
+cosinus nempe anguli F T N) ut est Β F ad B T
+
+In circulo quovis N K n M sumatur arcus
+N F ejusque sinus F G, ex centro ducatur recta
+T B A quae secet hunc sinum in B, dico quod
+sinus summae angulorum F T N, A T N erit ad
+T G cosinum anguli assumpti F T N, ut summa
+linearum F G, B G, ad lineam B T-
+
+Ex alterii parte puncti N sumatur arcus N V
+= N A, ducatur T V et producatur F G quae
+
+itaque B T =
+
+ad(FG÷BG)TG
+Vu
+
+Lemma; ducatur uterque consequens in
+
+hoc est, ut est B F per
+
+V u
+T G
+fiet sinus aequationis quaesitae ad V u qui est si-
+nus summae angulorum F T N -Ι- Α Τ N ut BF
+ad F G÷ B G, sed ex nota praecedenti est B F
+ad BF÷ BGutKH ad '1‘K÷TH, etest
+K H ad T K 4· T H ut sinus aequafionis maxi-
+mae ad radium3 hinc tandem, sinus aequationis
+cujusvis ad sinum summae angulorum F T N -Ι-
+A T N, ut sinus aequationis maximae ad radium.
+
+(¹) * Erit T H ad ΤΚ in subduplicatd ratione,
+&c. Est T S ad S K ut motus Solis ad motum
+horarium nodi in quadraturis, hoc est, ut 560.
+
+ 
+
+ 
+
+occurrat radio T V in¹ X, ductoque radio F T
+eoque producto si opus est, ducantur, in ipsum
+perpendiculares X x, V u.
+
+Liquet ex constructione, lineam B T esse
+aequalem lineae X T, lineam G X esse aequalem
+lineae B G, ideoque totam F X esse aequalem
+summae linearum F G, B (ἒς liquet pariter li..
+neam V u esse sinum arcus F V qui est summa
+arcuum N F et N V sive N A, et propter trian-
+gula F X x, F T G similia, ob angulum F
+
+ad 893‘. 58¹. 7⁰. 50¹⁰. sive ut 9.0827646 ad 1,
+ergo componendo est T S ad T K ut 9.0827646
+ad 10.0827646. ergoT H media proportionalis
+inter T S et T K, est ad ΤΚ in subduplicatae‘z'
+ratione, &c. Reliqua hujus scholii similibus
+calculis deducuntur, qui faciliores sunt quam ut
+plenius explicentur.
+
+Δ
+

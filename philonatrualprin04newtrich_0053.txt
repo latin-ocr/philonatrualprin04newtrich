@@ -1,0 +1,100 @@
+LIBER Tmrrms] PRINCIPIA MATHEMATICA. 35
+
+augetur ac diminuitur. Erat autem momentum areae in quadraturis Lunae
+ad -ejus momentum in syzygiis ut 10973 ad 1 1073, et propterea momentum
+mediocre in octantibus est ad excessum in syzygiis, defectumque in quad-
+raturiS, ut numerorum semi-summa 11023 ad eorundem semi-differentiam
+50. Unde cum tempus Lunae in singulis orbis particulis aequalibus sit
+reciproce ut ipsius velocitaS, erit tempus mediocre in octantibus ad exces-
+sum temporis in quadraturis, ac defectum in syzygiis, ab hac causa oriun-
+dum, ut'lloza ad 50 quam proxime. (a) Pergendo autem a quadraturis
+‘ad syzygiae, invenio quod excessus momentorum vareae in locis singulis,
+supra momentum minimum in quadraturiS, sit ut quadratum sinus distan-
+tiae Lunae a quadraturis quam proxime3 et propterea differentia inter
+momentum in loco quocunque et momentum mediocre in octantibus, est
+ut differentia inter quadratum ¹sinus distantiae Lunae a quadraturis et
+quadratum sinus graduum 45, seu semissem quadrati radii, et incrementum
+temporis in locis singulis inter octantes et quadraturas, et decrementum
+ejus inter octantes et syzygias, est in eadem ratione. Motus autem nodo-
+rum, quo tempore Luna percurrit singulas orbis particulas aequaleS,
+*acceleratur vel retardatur in duplicata ratione temporis. (b) Est enim
+motus iste, dum Luna percurrit P M (caeteris palibus) ut M L, et M L
+est in duplicata ratione temporis. (⁰) Quare motus nodorum m syzygiis,
+eo tempore confectus quo Luna datas orbis particulas percurrit, diminuitur
+· in duplicata ratione numeri 11073 ad numerum 110233 (d) estque decre-
+
+mentum ad motum reliquum ut 100 ad 10973, ad motum vero totum ut
+
+(²) ¹* Pergendo autem a quadraturis. Vide
+not. (¹⁵) Prop. XXVI. et locum ad quem refertur.
+
+(ὓ) * Est enim motus iste (caeteris paribus) ut
+M L, et M L est in duplicat& ratione temporis,
+motus nodorum generatur per actionem vis sola·
+ris 5 Ι Τ quae uniformis manere censetur dum
+describitur arcus P M, hinc crescit L M in du·
+plicata ratione temporis Lem. X. Lib. 1., ex·
+pressit autem Newtonus motum nodorum fin-
+gendo in puncto ipso P, a Sole simul et semel
+eam actionem imprimi quae toto tempore quo
+arcus P M describitur ab ipso exercita fuisset,
+et lineam L M esse spatium quod velocitate ita
+producta ipso eo tempore quo arcus P M per-
+curritur, describeretur, hinc itaque constat eam
+lineam fore in duplicata ratione temporis, (vid.
+not. 28. et 30. Lib. Ι.) haec autem linea L M
+est proportionalis vero effectui actionis Solis
+(vid. not. (¹¹) Prop. XXX. hujusce).
+
+(⁰ ) ¹* Quare motus nodorum. Momentum
+areae in syzygiis sive velocitas Lunae in syzygiis
+est ad velocitatem mediocrem in octantibus ut
+11073 ad 11023 ergo tempus quo Luna aequales
+
+arcus P M describet in syzygiis, est ad tempus
+quo eos arcus P M describere censebatur veloci-
+tate mediocri ut 11025 ad 11075, motus ergo
+nodorum m syzygiis fit minor quam adsumptus
+
+‘suerat' m ratione duplicata numerorum 11025 et
+
+11073.
+
+(d) ¹* Estque decrementum ad motum reliquum
+ut loo ad 10973, ad modum totum ut 100 ad
+11073. Motus reliquus est ad motum totum ut
+
+1 10252 ad 1 10752 sive ut 11075—502 ad 1107323
+sive priorem quantitatem ad quadratum evehendo
+secundum formulam vulgarem dignitatum ut
+
+110732 - 2 >< 50 >guo-15 4- 5'62 ad 110732
+
+negligatur terminus 50², caeterorum enim respec-
+tu evanescit, fiet motus reliquus ad totum ut
+
+11073²—2 >< 50 χ 11073 ad 110732, etdi-
+videndo per 11073, ut11073—2 >< 50 ad 11075.
+
+Est ergo differentia motus reliqui et motus
+totius h. e. motus decrementum ad motum to-
+tum, ut 2 >< 50 sive 100 ad 11075, ideoque
+etiam est motus decrementum ad motum reli-
+quum ut 100 ad 10975.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

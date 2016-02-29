@@ -1,0 +1,221 @@
+LlssEnTmzrms] PRINCIPIA MATHEMATICA.
+
+tuta in valore integralis sy 2 ‘¹' - ¹ >< y duea fit
+5²¹²·—¹r21—y2m—1rz—rrs(·2m--1)><
+5²¹³-2dy-i-s· rz><(21¹²--¹)>< γ’ὼ-Λᾶν,
+sive(quiarrs(2rn—1)><y2¹¹¹--²dy=
+
+Qm—112y2m—¹=r2y²m-·¹)ost
+
+ 
+
+§zm—1
+sy²mdu=—rzy².¹¹¹-¹÷s>< (ΞΜ-1)
+><rzxy2m—2dy(sivequiardy=zdu)
+=-rzy2¹¹²—-¹÷s.(2m—1)><z2y2m-*1du
+(et loco z ² substituendo r 2 — y 2) = --
+rzy2¹²¹-¹÷(2m—1)Jtr2y2¹¹¹-2du-
+(2m—1)sy²¹¹¹du;ettranspositione facta est
+2msy2mdu=—rzy²¹”-¹÷s<2m—-1)
+xr²sy²¹¹¹-²du, ettandemsy2¹¹¹du=
+
+. 2 m .- ι
+Ζζζῑζῑ xr²sy²¹¹¹—²du—‘²³'2m.
+hinc cum habeatur integralis quantitatis y ² d u;
+si quaeratur integralis y 4 d u, ea obtinebitur
+per hanc formulam, siquidem in eo casu est
+y2m-2du = y²d u, et ex ejus integra-
+tione habetur integratio quantitatis s y 2 ¹¹² d u,
+quae isto in casu est y 4 d u; simili modo ex
+integrali quantitatis y 4 d u habebitur integralis
+quantitatis y ⁶ d u, διο.
+
+ 
+
+ 
+
+0
+9
+
+rzy2m-1
+
+ 
+
+Quando P pervenit in A, terminus
+
+2 m
+evanescit, quia illic est z = o habetur ergo
+sy2¹¹¹du={-¹}1'H—--l r²sy2¹¹¹-²du; in
+
+eo ergo casu si quaeratur integralis quantitati-s
+y4du,fiatm= 2erits. y4du=gr2sy2dm
+2
+
+sedfly2du=¹8⁶ide6quefiy4du=
+3r4c
+
+4 8
+fiai<m=3eteritsy⁶du=255r²jy⁴du
+
+serlfiy4du=3r4⁰
+
+48.-
+a5r⁶c
+
+Corol. 1. Si in primo casu in quo alteruter
+factomm quantitatis d u aut ambo factores sunt
+imparis dimensionis, toturn elementum per quan-
+titates r, z, d z exprimatur, integralis quae tunc
+obtinebitur non erit completa, quia cosinus z ex
+T incipit et arcus u ex puncto C, unde d z ne-
+gativum esee debet; erit ergosr ²¹ z m d z=
+c — r ¹¹ z ¹¹² ÷ ¹
+
+m 4 l
+observandum quod ubi u est 0, ideoque evanescit
+hoc elgmen'tixm, tunc est z = r ergo o = C —
+r ”4 ÷¹hinc C= l r¹¹v÷¹³÷13 v. gr·
+m ÷ l m -Ι- 1
+ars. r2³d2= c-f—{ffitc=2¹,rs.
+
+Cor. 2. Si e contra arcus ιι ex puncto A
+inciperet, integralis quae obtinebitur cum ele-
+mentum per quantitatem y exprimetur, completa
+non erit, et ea ratione compleri debebit quae in
+praecedenti Corollario est¹ indicata.
+
+- Cor. 3. In secundo casu, si u ex puncto A
+incipiat, erits. y dz= A PNE T etsz d y est
+area A P Q, ut liquet ex ipsa figura.
+
+ 
+
+ 
+
+3 si quaeratur integralis quantitatis y ⁶ d u
+
+ideoquefi y ⁶ d u =
+
+ 
+
+ 
+
+ 
+
+, ut haec constans C obtineatur,
+
+ 
+
+ 
+
+69
+
+Cor. 4. Denique si u ex puncto A incipiat
+et ambo factores sint uterque dimensionis paris,
+elementum non est reducendum ad litteram y,
+ut in Lemmatis solutione factum est, sed ad
+quantitatem z, quae in toto calculo loco y sub-
+stituatur et vice versa; liquet enim quod z est
+sinus respectu arctis A P, et y ejus cosinus.
+
+PROBLEMA 1.
+
+Invenire totam retardationem Lunae dum
+unam revolutionem absolvit.
+
+Constat ex Theor. VI. Quod si Sol sit im-
+motus, et Luna in tota revolutione earn vim
+Solis patiatur quarn patitur in puncto P, eveniet
+ut ternpus quo describitur arcus d u, (quodque
+
+debet esse Μὲ u
+
+ἰᾶιιὲᾶε, et c peripheria quam percurrit‚) evadat
+u 7
+
+c
+
+posito M tempore periodico
+
+ 
+
+ 
+
+>< (1 -}- {V} ; itaque tempus illud pro-
+
+. . M d u 2 Y . , 2
+ducitur qusntltate >< --, ideo cum tem-
+
+c V
+Μ ἒ u iste arcus d u describi debuisset hoc
+
+M d u >< -2-X arcus {X d u descri-
+
+c V ' V
+beretur, haec est ergo retardatio Lunae in puncto
+P orta per actionem Solis.
+
+Sed in singulo puncto P orbitae lunaris vis Y
+
+ 
+
+ 
+
+pore
+
+ 
+
+ternpore
+
+⁸³* J} >< (ἒξ-Υ -- r) (per Theor. IV.) ergo ele-
+
+{Ex
+
+mentum retardationis Lunae est¹ d u V a
+
+ 
+
+.-
+(0 y y —- r), cujus integralis secundum Lemma
+
+r
+praecedens est Z} Χ (321⁰ — ᾖ r c), sive
+ἒξ Χ ⁴} r c, cum P pervenit in A, cumque
+
+idem sit Solis effectus in Fsingulo quadrant& tota
+2 r c
+
+retardatio Lunae est V—- >< 3 r c sive V
+a a
+
+dum Luna revolutionem absolvit, respectu Solis
+immoti.
+
+Si reddatur Soli motus suus, et loco mensis
+periodici M, mensis synodicus μ intelligatur, et
+censeatur quod prox-ime verum est, mensem sy-
+nodicum qui respondet mensi periodico iu circulo
+a d b c peracto, esse ad eum mensem periodicum
+ut μ ad M, ideoque eum mensem synodicum
+
+ 
+
+ 
+
+0⁵⁵² μ >< (l -ι- ΞῖῘὶ-ἷ) omnia procedent ut priuS,
+
+. Frc
+
+V ⁸.
+synodico.
+
+ 
+
+retardatio Lunae toto ejus tempore
+
+Scrupulus esse potest, utrum in hac expres-
+sione, quantitas c designet peripheriam 360 grad.
+an eam peripheriam conjunctam cum via quam
+Sol emensus est mense synodic03 sed ex inte-
+grationis adhibitae ratione patet, actum fuisse de
+

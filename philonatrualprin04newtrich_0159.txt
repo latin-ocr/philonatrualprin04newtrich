@@ -1,0 +1,117 @@
+mez TERTIUS] PRINCIPIA MATHEMATICA.
+
+141
+
+Scholium.
+
+Si :jungatur ,ω ξ secans A C in δ, et in ea capiatur ξ n, quae sit ad μ Β
+ut 27 Μ Ι ad 16 M με acta B n secabit chordam A C in ratione tem-
+porum (ο) magis accurate quam prius, Jaceat autem punctum n ultra
+
+B C, majus est tempore quo idem cometa factus
+velocior describit arcum B A. Accuratius
+itaque eligentur tempora parum inaequalia ut
+punctum E potius abeat versus C, quam versus
+A, ob rationem modo allatam.
+
+139. Si vertex μ, segmenti parabolici A μ C
+parum distet a vertice principali, sitque punctum
+B proximum puncto μ, recta S* μ, ex parabolae
+umbilico S, ad verticem μ, ducta dividet chor-
+
+dam A C, in M, fere} in ratione temporum, ut
+ex praecedentibus patet.
+
+140. Si fuerit recta S μ admodum magna re-
+spectu abscissae μ, 1, erit S V, tripla ipsius M V.
+Quoniam enim rectae S V O, S M μς in hoc
+casu pro parallelis haberi possunt, erit 1 V ad
+
+V M ut I O ad μ O, hoc est, (per constr. Lem.
+VIII.) ut 3 ad 1.
+
+141. Iisdem positis, erit V ξ = 3 V S
+-1- 5 Ι μ; quoniam enim (per constr.) S ξ
+= 280, erit Og=3so=5sv÷5va
+Jam utrinque auferatur V O. fiet V ξ = 3 S V
+-}— 2 V O. Sed ob rectas V O, M μ parallelas,
+VOestad M μ, utI ΟειᾶΙμ, hocest, ut3
+ad 2, ideoque 2 V Ο = 5 Μ μ.. Praeterea
+rectae S μ, Ι μ, aequales constituunt angulos
+cum recta tangente parabolam in μ, quae est
+chordae A C parallela (per Theor. 111. de parab.
+et Lem· IV. de conic·)- Quare aequales sunt
+anguli M 1 μ, Ι Μ μ, ac proinde recta M p=I μς
+unIde fit51p0=2VQ et V3=3VS÷
+5 μ.
+
+ 
+
+(²) 142. * Magis accurate} quam pn'zls. Sit A ver-
+tex principalis parabolae, S umbilicus, A S = f,
+ldeoque latus rectum principale: ιι f. Ponatur
+R B=y, rC=x, erit area ASBC=
+
+{2:24131'211, et areaASB A=y34gss2ff²y
+
+(Theor. IV. de parab.); ac proinde area ASB C,
+est ad aream A S B A, ut¹³'''''12f2x
+
+3 ,, 24f -ad
+X—fflffieuutssq-mssxadyufl-
+
+12 f·2 y, id est, =in ratione temporum accurate.
+
+Praeterea est A C = 'Vm-² =
+
+μΤῑ-ῖ-ιῇπι
+4 f
+
+ad y3 -Ι- 12f⁸2 yut
+
+ 
+
+ 
+
+ 
+
+; quaresifiatx³÷12f2x
+
+41·
+
+ 
+
+ad
+·K
+
+AE—(y³†12f²y) Vx4416f²x2
+
+“”“ 4f(x³÷12f²x) '
+erit quoque recta A C ad hanc rectam A E, in
+ratione temporum accurate.
+
+Jam vero investigandus est valor rectae A E,
+qui prodit ex constructione Lemmatis praeceden-
+tis. Ex umbilico S, erigatur ad ,ιι Ο perpendi-
+cularis S m, haec erit aequalis ordinatae q μ.
+Deinde (Theor. Ι. de parab.) q μ, dimidia est
+. . 1 x x — 16 ff
+:PS1usrCseu3x,etpm=qS= 161. .
+
+Praeterea est μ Ι = 2 μ Ο (per constr.) et
+
+ 
+
+ 
+
+μ Ι = ξεῖ (165 et Theor. 11. de parab.) Sed
+estAI²=Q, et Sp²=
+
+64f2
+
+ 
+
+12—16f2 2 1
+( 161. ) -f-Txlssquareestposeu
+2
+

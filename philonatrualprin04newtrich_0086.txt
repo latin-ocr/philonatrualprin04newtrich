@@ -1,0 +1,130 @@
+68
+
+pasculum, transibit Luna ex circulo primae vi
+congruo in alterum huic incremento consenta-
+neum, sicque semper, ideoque in singulis parti·
+culis arcus C P Luna censeri potest delata in
+circulum vi Solis in eo puncto agenti congruum.
+
+THEOR. VI.
+
+Manentibus quae in Theor. IV. supposita
+sunt, dicatur e tota circumferentia cujus radius
+est r, dicatur Y vis Solis agens in Lunam secun-
+dum directionem P T et in data distantia C P
+a quadratura C, quae distantia C P dicatur u,
+dicatur M ternpus periodicum Lunae in circulo
+A D B C citra Solis actionem, arcus exiguus a
+puncto P assumptus dicatur d u, dico quod tern-
+pus quo similis arcus describetur in orbita in
+quam Luna per actionem Solis est translata, erit
+
+ 
+
+Nam si vis Y quae in punctum P a Sole ex-
+ercetur, in exiguas particulas divideretur, et sin-
+gula quae dicatur d Y maneret constans durante
+unica. revolutIone Lunae, sicque gradatim Lunam
+
+ 
+
+in circulum a d b c transferret, tempus periodi-
+cum in singulo circulo excederet tempus periodi-
+
+2 d Y
+V .
+Hinc tandem ἱεηῬαςΡρῐίοάἰςυῃ) quo circulus
+
+a d b c describeretur, foret M >< (1 -Ι- 2--VY- -1-
+
+ 
+
+cum in circulo praecedenti quantitate
+
+&c.) per Theor. 111. et tempus quo arcus similis
+arcui d u describeretur in eo circulo, foret ad hoc
+tempus periodicum ut d u ad c, foret itaque
+
+Med ¹¹ >< (1 ÷ 3373 ÷ sc.) sed singulae Parti·
+
+culae orbitae quam Luna describit propter ad-
+junctionem vis Solis, spectari possunt quasi pera
+tinerent ad circulos congruos vi Solis in illis
+punctis agentiS‚ per Theor. V. Ergo, tempus
+inventum est illud ipsum, quo durante, Luna
+describet arcum similem arcui d uin orbita in
+quam transfertur per actionem Solis.
+
+ 
+
+PHILOSOPHIAE NATURALIS [DE Mum). SYs'r.
+
+LEMMA Ι.
+
+Invenire integrales quantitatum y d u, z d u,
+y2du,z2ydu, zy2du‚ yz²du,y³du,y4du,
+διο. factamm ex elemento arcus et dignitatibus
+ejus sinus y, vel ejus cosinus z.
+
+Ex natura circuli triangulum P T E est simile
+triangulo fluxionali P m n ; ideoque est P T (r)
+ad Pm(du) utPE(y) ad Pn (dz), ut TE
+
+(z) admn(dy),hincesti1u=f-‘-¹-¹-⁷‘= ——3
+
+ 
+
+hine fit prima, ut, omnes termini in quibus alte-
+ruter factorum y vel z quantitatis d u dimensio-
+nem habet imparis numeri, possint integrari;
+
+nam loco elementi d u, ponatur ejus valor Q
+
+r {y si z sit im-
+paris dimensionis, ea substitutione fiet ut pares
+evadant dimensiones y vel z quae prius impares
+erant, et quia in primo casu habetur fluxio d z,
+loco y 2 substituatur r 2 - z 2, sicque omnes
+factores ducentes d z, erunt aut r aut z, ideoque
+qua-ntitas proposita erit absolute integrabilis, in
+altero casu cum habeatur fluxio d y, ut tollantur
+factores z cujus dimensiones sunt pares, loco z 2
+substituatur r 2 - y 2, sicque omnes factores
+ducentes d y, erunt aut r aut y, ide6que habe-
+buntur termini absolute integrabiles.
+
+Secundo, factores quantitatis d u sint pares,
+et quidam primo sit z 2 d u vel y 2 d u, integralis
+horum elementorum est r >< C P Q T vel r ><
+CPE, nam estz²du = rzd y, etz d y
+est fluxio areae C P QT3 est y²du=r ydz,
+et y d z est fluxio areae C P Ε ; itaque quando
+P ex C pervenit in A et ,absolvit quadrantem
+
+si y sit imparis dimensionis, vel
+
+ 
+
+integralis z ² d'u vel y 2 (1 u est r Χ Ξ-8-ο.
+
+Sint itaque ambo factores y vel z quantitatis
+d u numero pari qualicumque, semper reduci
+poterunt ita ut quantitas proposita contineat dig-
+nitates pares alterutrius quantitatis, puta y, altera
+variabili exclusa ponendo loco z 2 quantitatem
+r 2 — y 2. Si ergo quaeratur integralis quanti-
+tatis y 2 ἠ (1 u, ut ea ad impares dimensiones
+revocetur, spectetur ut y 2 ‘¹‘ - ¹ >< y d u: est
+autem juxta methodos vulgares sy 2 ¹¹¹ — ¹ ><
+
+ydu=y²m--¹sydu-ssydu><(2m-
+
+1)><y2¹¹²—2dy,sedydu=‘y‘¹²
+et integralis quantitatis d z sumpti} a puncto C
+
+estr —— z, hincsy d u= rr—rz‚ qua substi-
+
+=rdz‚
+
+ 
+

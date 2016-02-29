@@ -1,0 +1,107 @@
+mez TERTIUS.] PRINCIPIA MATHEMATICA.
+
+151
+
+(¹¹) Sin punctum P non incidat in punctum N, in recta A C capiatur C G
+ipsi N P aequalis, ita ut puncta G et P ad easdem partes rectae N C jaceant.
+
+gens latitudinis m observatione tertia ad radium
+T C; jungatur M N secans 1 O 111 Ο. Si eri-
+gatur trapezium A C N M normaliter ad pla-
+num eclipticae manente recta C A, erunt puncta
+M, N loca vera cometae, si mod& punctum B sit
+ejus vestigium in plano eclipticae 1n observatione
+secunda, et planum transiens per tria puncta Μ,
+Ο, Ν, est planum trajectoriae cometicae, idedqud
+recta M N est chorda arcus trajectoriae paraboli-
+cae a cometa descriptae inter observationem pri-
+mam et tertiam, et S M, S N sunt distantiae
+cometae a Sole in observatione prima· et tertia re-
+spective, hoc est, dis tantiavera cujusvis punctitra-
+jectoriae cometicae a Sole est hypothenusa trianguli
+rectanguli cujus alterum latus est distantia a Sole
+vestigii illius puncti in plano eclipticae, alterum
+autem est perpendiculum ex isto vestigio norma-
+liter ad planum eclipticae excitatum et ad pune-
+tum trajectoriae terminatum. Quia
+verd aliqua ex istis perpendiculis
+sunt longiora ut N C, quaedam
+breviora ut M A, inter haec medi-
+um quoddam usurpetur, puta hic
+Ι O. Et universaliter loquendo,
+distantia cujusvis puncti trajecto-
+riae cometicae a Sole erit quam-
+proxime hypothenusa trianguli
+rectanguli cujus alterum latus est
+distantia puncti analogi 111 vestigio
+trajectoriae descripto, et alterum
+latus est ipsa recta I O. Quibus
+positis in I A, eave producta capi-
+asur 1 D= εμ-ι--ξῑλι- SR,
+facta L R = L μ, et jungatur
+D O, haec quamproxime aequabi·
+tur puncti trajectoriae cujus μ est
+vestigium distantiae a Sole auctae
+duabus tertiis rectae interjectae in·
+ter punctum istud et chordam 31·-
+cus trajectoriae, ipsam scilicet M N
+in trapezio A C N M, id est, recta
+D Ο aequalis est rectae in plano
+trajectoriae cometae analogae ipsi
+S R in ejus vestigio in plano eclip-
+ticae‚ hoc est D Ο aequalis est rec-
+tae S R in parabola (Lem. X.).
+Jam (per Corol. 3. Prop. XL.)
+conferatur velocitas cometae‚ dum
+in parabolica sua trajectoria move·
+tur in distantia a Sole aequali rec-
+tae D O, cum velocitate Telluris
+circa Solem, et definiatur linea
+quam cometa, cum praedicta velocitate aequabili-
+ter motus, percurreret toto tempore quo Tellus
+arcum a· t T describit, sive toto tempore quo
+cometa arcum A B C in ecliptica percurrit, in
+partibus arcus T t ‹2- a Tellure interim percursi.
+ld autem facile praes tatur modo sequenti. Cal-
+culo inveniatur longitudo arcus ee· t T a Tellure
+descripti inter observationem primam et tertiam,
+
+Ν P
+
+o Alli
+
+est ad longitudinem prius inventam X, in sub-
+duplicata ratione diametri orbis magni ad rectam
+notam D O, quaeque proinde datur, est ipsa
+longitudo quaesita, ea nempe quam, cometa
+aequabiliter latus cum velocitate quam trajecto-
+
+riam suam parabolicam describens habet ad dis-
+tantiam a Sole aequalem rectae D O, percurreret
+tempore quo·cometa arcum cujus chorda M N
+revera percurrit. Nam (per Cor. 3. Prop. XL.)
+velocitas cometae in hac distantia D Ο, est ad ve-
+locitatem Telluris in praedicta rati0ne. Sed
+(per Lem. X.) dieta longitudo Μ Ρ aequalis est
+chordae arcus quem cometa isto tempore revera
+describit· , quare si reperiatur M P aequalis
+chordae M Ν, hoc est, si punctum P incidat 111
+punctum N reete assumptum fuit punctum B
+in longitudine secund& observat pro vestigio
+cometae, ide6que erunt A, B, C, tria loca come-
+
+ξ
+
+tlaebper quae orbis ejus in plano eclipticae describi
+e et
+
+(¹¹) *² Sin punctum P non incidat in punctum
+‚N, in recta M N eave producta, si opus est,
+(vid. fig. praeced. ) capiantur M P, N P aequales
+longitudini prius inventae, capiantur etiam C G,
+
+C F, aequales M P, N P, ita ut G et P ad eas-
+
+p65ito quovis numero rotundo pro mediocri dis- dem partes rectae N C jaceant. Praeterea effidem
+tantia. Terrae 3 Sole, longitudo puta M P quae methodo quii ex assumpto puncto B, inventa
+

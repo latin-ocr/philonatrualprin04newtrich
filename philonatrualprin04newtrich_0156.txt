@@ -1,0 +1,69 @@
+138 PHILOSOPHIAE NATURALIS [DE MuNn. SYST.
+
+LEMMA VI.
+
+Ea· observatis aliquot locis cometae invenire locum ejus ad tempus quodvis
+iutwmedz’um datum.
+
+Designent H Ι, Ι Κ, Κ L, L M tempora inter observationes H A,
+I B, K C, L D, M E observatas quinque longitudines cometae, H S
+
+      
+
+b ‘Ab 3b 4b 5b A B Rc
+c 20 30 40
+d ad ad · ..M-N
+Η Ι SK L ,
+e Ze Q
+f E
+
+tempus datum inter observationem primam et longitudinem quaesitam.
+Et si, per puncta A, B, C, D, E duci intelligatur curva regularis
+A B C D E; et per Lemma superius inveniatur ejus ordinatim applicata
+R S, erit R S longitudo quaesita.
+
+Eadem methodo ex observatis quinque latitudinibus invenitur latitudo
+ad tempus datum. '
+
+(²) Si longitudinum observatarum parvae sint differentiae, puta graduum
+tantum 4 vel 53 suffecerint observationes tres vel quatum! ad inveniendam
+longitudinem et latitudinem novam. Sin majores sint differentiae„ puta
+
+graduum 10 vel 20, debebunt observationes quinque adhiberi.
+
+· (Ζ) 157. ’ Si longitudinum observatorum, plures observationes et parabolam plurium di-
+
+(patet per not. in Cor. praeced.). Methodus
+Lemmatis praecedentis, quae methodus interpo-
+lationum dici solet, in rebus astronomicis usus
+habere potest eximios. Hanc methodum adhi-
+buit clariss. Meierus Tom. 11. Comment. Acad-
+Petropol. ad Investiganda Solstitiorum Momenta.
+Circa tempus solstitii observentur aliquae Solis
+altitudines meridianae, illasque Solis altitudines
+repraesentent quaedam ordinatae, et tempora inter
+observationes elapsa ordinatarum intervallis exhi-
+beantur. Deinde transeat parabola per extremi-
+tates ordinatarum, abscissa quae correspondet
+minimae ordinatae, tempus solstitii determinabit.
+Caeterutn definiri 'potest tempus solstitii per
+
+mensionum, vel per tres observationes duntaxat
+et parabolam comeam, uti fecit Halleius. Ve-
+rum in quocumque casu adhibeatur interpola-
+tionum methodus, oportet differentias observatas
+sensibiliter majores esse erroribus qui in ipsa
+observatione committi possunt, hac autem adhi-
+bita cura, satis accurate determinari poterunt
+plurima astronomiae phaenomena quae alia qui-
+
+* dem via forent determinatu difficillima. Elegan-
+
+tissimum ejusdem methodi exemplum dedit exi-
+mius geometra D. Clairaut in Mon. Paris.
+an. 1756, ubi determinandae Telluri flgurae mo-
+dum exponit ex mensura plurium meridiani ar-
+cuum in diversis latitudinibus capta.
+
+ 
+

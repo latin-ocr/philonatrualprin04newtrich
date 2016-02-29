@@ -1,0 +1,49 @@
+ΙΑΒΒΒ Tannus] PRINCIPIA MATHEMATICA. 61
+
+PROPOSITIO XXXV. PROBLEMA XVI.
+
+Dato tempore invenire inclinationem orbis lunaris ad planum eclipticae.
+
+Sit A D sinus inclinationis maximae, et A B sinus inclinationis minimae.
+Bisecetur B Ι) m C, et centro C, intervallo B C describatur circulus
+Β G D. In A C capiatur C E in ea ratione ad E B quam E B habet
+ad 2 Β A: et si dato tempore constituatur angulus A E G aequalis dupli-
+catae distantiae nodorum a quadraturis, et ad A D demittatul pei pendiculum
+G H: erit A H sinus inclinationis quaesitae.
+
+NamGEqaequaleestGHq÷ HEq = (x)BHD 4- HEq ε
+113D÷HEq—BHq= HBD÷ BEq--assHxBE =
+
+ 
+
+BEq÷2ECx'BH=2ECxAB÷2EC><BH=2EC
+Χ Α Η. Ideoque cum 2 E C detur, est GE q ut A H. Designet jam
+
+vA E g duplicatam distantiam nodorum a quadraturis post datum aliquod
+momentum temporis completum, et arcus G g ob datum angulum G E g
+
+erit ut distantia G E. (y) Est autem H h ad G g ut G H ad G C, et
+propterea H h est ut contentum G H Χ G g, seu G H >< G E3 id est ut
+
+(ἐξ) Χ GEq sen-(Gi-Ig><AH,idest,utAHetsinusanguliAEG
+
+conjunctim. Igitur si A H in casu aliquo sit sinus inclinationis, augebitur
+ea iisdem incrementis cum sinu inclinationis, per Corol. 3. Propositionis
+superioris, et propterea sinui illi aequalis semper manebit. (²) Sed A H,
+ubi punctum G incidit in punctum alterutrum B vel D, huic sinui aequalis
+est, et propterea eidem semper aequalis manet. Q. e. d.
+
+In hac demonstratione supposui angulum B E G, qui est duplicata
+
+(¹) ΞΒΗΒ-ι-ΗΕς. (Pro 0..pVLib. ΕΒ2 =2Ec><13A3 quareBEq-4-212c
+11. Elem.)=HBD÷PHEq—BHq ><BH= 2Ech'B-1-2Ecxssn.
+
+(pe Prop.2111.1,ib.11.Elem)=HP3D÷
+
+BEq Β2ἙΒΗ χ BE(Pmpv11ejMSdm ὡριᾙ Esat thdeg (Per naturam
+lai-b) q÷c2E χΒΗῳΒΒοΒὸε ¹¹¹¹·)
+
+2Ε)02-ἒΕ ΒΕ) Est ειυθετιτττα) ιτ.) (2e.)SdAH (Per tr.)
+
+Ea
+

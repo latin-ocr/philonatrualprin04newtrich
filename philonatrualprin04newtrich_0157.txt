@@ -1,0 +1,85 @@
+›ACYuAutAEadAQ
+
+L1BER TERTIUS] PRINCIPIA MATHEMATICA.
+
+139'
+
+LEMMA VII.
+
+Per datum punctum P ducere rectam lineam B C, cujus partes P B, P C, ¹
+rectis duabus positione datis A Β, A C, abscissae, datam habeant rationem
+
+μ ad invicem.
+
+A puncto illo P ad rectarum alterutram A B
+ducatur recta quaevis P D, et producatur
+eadem versus. rectam alteram A C usque ad
+E, ut sit P E ad P D in data illa ratione.
+Ipsi A D parallela sit E C3 et si agatur
+C P Β, erit P C ad PBut PE ad PD-
+
+Q.e.f.
+
+E .
+§.a
+
+ 
+
+LEMMA VIII.
+
+Sit A Β C parabola umbilicum habens S. Chorda A C bisecta in Ι abscin-
+
+datur segmentum A Β C Ι, cujus diameter sit I μ et vertex μ.
+
+ΙηΙμ
+
+producta capiatur μ Ο aequalis dimidio ipsius I μ. Jungatur O S, et
+producatur ea ad ξ, ut sit S ξ aequalis 2 S O. Et si cometa Β moveatur
+. in arcu C Β A, et agatur ξ Β secans A C in E: dico quod punctum E
+abscindet de chordd A C segmentum A E tempori proportionale quam-
+
+proxime.
+
+Jungatur enim E O
+secans arcum paraboli-
+cumABCinY,Qt
+agatur μ Χ, quae tangat
+eundern arcum in vertice
+μ, et actae E O occurrat
+
+ 
+
+in X; (ὃ) et erit area curvilinea A E X μ A ad aream curvilineam
+
+(³) ¹* Et erit area. Quoniam chorda A C
+
+- bisecta est in Ι, erit semi-segmentum A μ Ι
+
+f aequale semi-segmento μ Ι C. Item quia μ Χ
+tangit parabolam in μ, erit μ Χ, parallela chor-
+dae A C (per Lem. IV. de conic· Lib. Ι.) ac
+proinde} triangulum Ο 1 E simile est triangulo
+Ο μ Χ, ide6que ob 1 Ο triplam ipsius μ 0, erit
+triangulum I Ο Ε trianguli μ Ο X, noncuplum
+et triangulum Ι O E trapezii Ι μ. Χ Ε, sesqui-
+octavum. Praeterea triangulum I A O, est tri-
+anguli I A μ, sesquialterum (omittuntur in
+
+von. ΙΙΙ. Pius 11.
+
+Ide6que eum triangulum A S E sit ad
+
+figura aliquae lineae ad vitandam confusionem)
+cum idem sit trianguli utriusque vertex A, sitque
+basis Ο Ι sesquialtera basis μ 1, triangulum ver&
+A μ Ι, subsesquitertium est semi-segmenti A μ Ι
+(Prop. XXIV. Archimed. de parab. vel Theor.
+IV. de parab. Lib. L). Quare triangulum
+A O I est sesquioctavum semi-segmenti A μ Ι,
+hoc est, in ratione composita ex rationibus ses-
+quialtera et subsesquitertia ac proind& triangulum
+A-O I, est ad semi-segmentum A μ I sicut tri-
+angulum 1 Ο Ε, ad trapezium μ X 1 Ε, et
+
+K
+

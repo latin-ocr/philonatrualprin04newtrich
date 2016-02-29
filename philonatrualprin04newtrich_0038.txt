@@ -1,0 +1,179 @@
+20
+
+PHILOSOPHIAE NATURALIS [DE Mum). strr.
+
+distantiis Solis a Terra, variatio maxima est in ratione quae componitur
+
+ex duplicata ratione temporis revolutionis synodicae lunaris (dato anni
+tempore) directe, et triplicata ratione distantiae Solis a Terra inverse.
+
+(0) Ideoque in apogaeo Solis variatio maxima est 33'. 14²², et in ejus peri-
+
+effectus totus a A erit ut quadratum temporis
+per quod illae vires egerunt per Cor. 1. Lem. X.
+Lib. Ι. ideoque Π Ψ· crescit secundum quadrata
+temporum.
+
+Idem demonstrabitur de portione variationis
+Ψ ω quae pendet ex acceleratione descriptionis
+areae; quippe manentibus omnibus ut in not.
+112. et fig. 3³. recta C A majus tempus desig-
+nare censeatur, et partes P p tempuscula in eadem
+ratione longiora, lineae P M designant velocitates
+genitas durante momento P p, si ergo id mo-
+mentum crescat viribus generatricibus iisdem
+manentibus, velocitates genitae P M crescent in
+proportione temporiS‚ et quia P p M m designat
+spatiolum illa velocitate percursum, crescuntque
+et P M et P p in ratione temporum, crescet
+P M m p in ratione duplicata temporum, ciim-
+Aque singula elementa curvae in ea proportione
+crescant, et tota ar a C A H, et ei aequalis
+C A X Y, ejusque ‘dimidia C Q Z Y in eadem
+proportione crescent3 ex qua si detrahatur C Q Z
+quod in eadem proportione crevit, reliquum
+C Z Y quod areae variationi maximae Ψ Τ ω est
+proportionale, crescet etiam in eadem duplicata
+ratione temporum, manente itaque radio T ω,
+ipse arcus Ψ ω crescet in duplicata ratione tem-
+porum.
+
+Hinc cum Π Ψ crescat in duplicata ratione
+temporum, tum etiam Ψ ω, summa itaque Π ω
+sive tota variatio crescet in eadem duplicata tem-
+porum ratione.
+
+Dico praeterea quod si spectetur imminutio
+actionis Solis propter auctam distantiam, variatio
+maxima decrescet in ratione triplicata distantia-
+rum, nam designetur vis mediocris Solis per
+
+S K 2, est ex constructione S K ad T M ut vis
+
+ 
+
+ 
+
+ 
+
+Solis sive ut S {42 ad vim T M, ergo ea vis
+T M est ut ὃΤΙῙέΙὸ manente ergo T M quae est
+
+aequalis P T; vis T M ex actione Solis pendens
+decrescit ut distantiarum cubus augetur3 ma-
+nente ergo tempore, sed vi m'utata secundnm
+rationem triplicatam, eadem fere ratione ac prius
+ostendetur utramque variationis maximae partem
+Π Ψ· ω et Ψ ω fore inverse in ratione triplicata
+distantiarum Solis ; hincque in variis Solis a
+Τεννᾶ distantiis quae in datis anni temporibus
+recurrunt, variationes maaeimae erunt in ter se in ra-
+tione duplicat& durationis· mensis synodici eo tem-
+pore, et triplicat& inverse? distantiae Solis a Terrd.
+
+(⁰) “ Ide6que, &c. Ex his et praecedentibus
+facile intelligitur Newtoni calculus, si prius haec
+Principia revocentur.
+
+10. Si dicatur m distantia mediocris Solis,
+
+sit ὲ e excessus vel defectus ejus distantiae a
+mediocri distantia in loco quovis dat03 denique
+dicatur s Solis motus horarius mediocris, dico
+quod Solis motus horarius in loco quovis suae
+m ² s
+
+111.ss ΕΙ2
+
+Sit enim T Terra; P Sol; T P p area horae
+tempore descripta, ejus areae valor ubivis erit
+semper idem, sit p q arcus radio T p descriptus,
+
+P .
+RQ
+
+l
+
+ 
+
+orbitae exprimetur per quantitatem
+
+ 
+
+qui ob exiguitatem sumi potest ut ipsum per-
+pendiculum in basim P T demissum, ide6que
+ob areas ubivis aequales is arcus erit ubivis inverse
+ut basis T P, sed numerus graduum ejus arcus
+p q est directe ut is ipse arcus et inverse ut ejus
+radius T p sive T Ρ, ergo numerus graduum
+ejus arcus p q est in ratione duplicata inversa¹
+radii T P, is vero numerus exprimit motum
+Solis horarium, ergo Solis motus horarius, est
+inverse ut quadratum radii T P; cum ergo in
+distantia mediocri est T P = m, in quavis alia
+
+1
+
+distantia est T P τε. m ss e, ergo est 157 ad
+
+1 s m 2
+(msse)² ”md (ruff->²
+tum horarium Solis in quavis distantia T P.
+
+In distantia mediocri evanescit quaptitas ss e
+m s
+
+m2
+
+quod exprimit mo-
+
+ 
+
+ 
+
+ 
+
+ide6que motus horarius illic evadit = s se-
+
+cundum hypothesim.
+
+20. Posito Lunam semper moveri motu suo
+horario mediocri, qui dicatur l, sitque p ejus
+tempus periodicum inter fixas, duratio mensis sy-
+nodici quovis in loco orbitae Telluris circa Solem,
+
+m ὲ. el ² >< l P
+
+exprimetur per quantitatem {W
+
+ἐξ fiet
+
+ 
+
+sive divisa hac quantitate per constantem
+
+ 
+
+msse12
+
+21e e‘ll'
+¹···⁵ss ’ΠΤ-Ι· 5⁷2
+
+Nam dicatur x numerus graduum quem Sol
+emetitur durante quovis mense synodico, nume-
+rus graduum quem Luna eodem tempore eme.
+
+tietur, erit 560 -l- x, erit ergo motus horarius
+m {s t
+m ,ᾖ e} ² u
+
+360 4· x ad x, et dividendo m} i ,ᾖ 2 m e l -Ι-
+
+mensis synodicus ut
+
+ 
+
+ 
+
+Lunae l ad motum horarium Solis
+

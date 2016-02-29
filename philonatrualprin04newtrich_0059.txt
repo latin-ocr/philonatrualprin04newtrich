@@ -1,0 +1,194 @@
+ἐ LIBER TERTIUS] PRINCIPIA MATHEMATICA. 41
+
+ὲ Α Ζ ut A T q ad 9,0827646 A T q -ι- A Z q; (q) rectangulum d Z
+in Z Y designabit decrementum temporis ex motu nodi oriundum, tem-
+pore toto quo arcus A a percurritur. (¹) Et si punctum d tangit curvam
+
+(q) * Rectanguhtm d Z in Z Y designabit de-
+crementum temporis ez· motu nodi oriundumf
+nam, ex superioribuS, tempus quo Sol percurrit
+arcum A a sine motu nodi, est ad tempus quo
+Sol a nodo discedet eo arcu A a si (ipse nodus
+
+moveatur) ut 9.0827646 A T q 4- A Z q ad
+9.0827 646 A T q; hinc convertendo, differentia
+
+corum temporum est ad prius tempus ut A Z q
+ad 9.0827646 A T q -Ι- Α Ζ q, sed, ex hypo-
+thesi, sectoris particula A T a designat prius
+tempus, ca ergo quantitas d Z >< Ζ Y quae est
+ad A Ta ut A Zq ad 9.0827646 A Tq -1-
+A Z q exprimet decrementum temporis ea: motu
+nodi oriundum.
+
+(¹) ³¹⁵ Et si punctum d tangit curvam N d G π. Numerus 560 designetur per a, numerus
+
+59‚6355 dicatur b, ide6que 9.0827646 sit -Ξ, Α Τ ὀίόειῐιιι· r, et A Z, y, eritque d Z = ³2- r2 y
+
+. }r²†y²
+
+et in puncto T ubi A Z evadit A T sive ubi fit y=r est d Z= ἑ br
+
+a†b=
+
+ 
+
+’ {b12y
+
+:ETW
+
+20 16252923 ita ut d Z ad vicesimam radii partem nusquam assurgat.
+
+ 
+
+ 
+
+Est autem ex natura circuli T Z = 4! rr —- y y, et T Z ad A Z ut fluxio ordinatae A Z ad
+
+Ζ Y, ide6queZY= ΜΨ ,hine elementumdz >< z Y=———i-¹2L²y—²d:y-—.;-m
+v‘rr-yy (ar²†by²)vrr—yy
+
+et ele‘inentum segmenti N A Z est
+
+ 
+
+ 
+
+y²dyd
+
+———
+
+νῖν-Μ’
+>¹² γ’*
+
+21· 8r³
+
+ 
+
+ 
+
+Χ
+
+Est veroffrr—yyaequalis serieir— 3'6 53⁷⁸ 75¹⁰
+
+16r5—'128r7—256r9'
+y2 y4 3Y⁶ ὅγε 55y10 63y12
+αττ-Π {5³48r54161741-25'r‘94356511'
+
+quae §eries parum convergit quando γ’ accedit ad valorem r, unde prudenter est adhibenda.
+
+ 
+
+&c-
+
+ 
+
+ 
+
+ 
+
+,μ
+*iet aequalis seriei ξ -{-
+
+ 
+
+ 
+
+&c-
+
+ 
+
+ 
+
+Multiplicetur vero haec series per d y et flat integratio, obtinetur sequens series quae exprimit
+
+5 :3y7 5y⁹ 85y¹1
+10r3436⁶ff4144r⁷÷ moero’
+
+quae series parum convergit quando y = r sed tunc segmentum N A Z est quadrans circuli qui
+
+διο.
+
+ 
+
+segmentum N A Z, ἐς -ξ-
+
+ 
+
+ 
+
+per alias commodiores approximationes obtinetur.
+b4y8
+a 4 r δ’
+
+by2
+ar²
+
+b2y4 b3y6
+a²r4-a³r⁶
+
+ac.)
+
+ 
+
+ 
+
+ 
+
+÷ ÷
+
+quae plurimum convergit propter dignitates crescentes fractionis ἶ- quae ent circiter ᾗ.
+
+ 
+
+“ Βῖνίὀαῐυτὲὸτῖρεϊαϊῑ-ᾕ-ὺγῖ,1ἶῐεθϊῐθδὲξ Χ(Ῑ···
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Multiplicetur itaque per hanc seriem, series V 1¹³2— Υ y superius inventa et obtinebitur haec
+
+α σ ε xo 12
+
+series 2b—a Χ y? ‘¹' ’ἕῖέ 4215 4 5651* ⁷ 4 ziio-2851& 4 {5361 11’ ἃς·
+2 4 6 8 10 , 12
+
+-ἕ-ει-’Χ ÷÷gr54337÷TGYr⁹÷1⁹⁵2585rmgm
+3 σ 8 - ιο 12
+
+&ax ÷÷3yssv÷⁰s³2⁹ ἣν ῗξμνᾶσ·
+8' 10 12
+
+'‘2223'‘ ἰν 42519 4 giu’gae’
+
+ee multiplicetur haec series per d y et integretur, fiet series quae exhibebit vanorem areae N d Z
+

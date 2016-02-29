@@ -1,0 +1,107 @@
+Δ , pore.
+
+LIBER TERTIUS] PRINCIPIA MATHEMATICA. 53
+
+quoniam spatium A B b a est ad sectorem T Β b ut rectangulum A Β β
+ad B T quadratum (rectangulum enim illud aequatur differentiae quadra-
+torum eX T A et T B ob rectam A β aequaliter et inaequaliter sectam in
+T et Β.) Haec igitur ratio ubi spatium A Β b a maximum est in Κ,
+eadem* erit ac ratio rectanguli K H M ad H T quadratum, sed maxima
+nodi mediocris velocitas erat ad Solis velocitatem in haic ratione. Igitur
+in quadraturis sector A T a dividitur in partes velocitatibus proportionales.
+(ἢ Et quoniam rectang. K H M estad H T quadr. ut F Β f ad Β G
+quad. (g) et rectangulum A B β aequatur rectangulo F Β f. Erit igitur
+areola A Β b a ubi maxima est ad reliquum sectorem T Β b, ut rectang.
+A Β β ad Β G quadr. Sed ratio harum areolarum semper erat ut A Β β
+rectang. ad B T quadratum 3 et propterea areola A B b a in loco A minor
+est simili areola in quadraturis, in dupli-cata ratione Β G ad Β T hoc est
+in duplicata ratione sinus distantiae Solis a nodo· Et proinde summa
+omnium areolarum A Β b a nempe spatium A Β N erit ut motus nodi in
+tempore quo Sol digreditur a nodo per arcum N A. Et spatium reliquum
+nempe sector ellipticus N T B erit ut motus Solis medius in eodem tem-
+Et propterea quoniam annuus motus nodi medius, is est qui fit in
+tempore quo Sol periodum suam absolverit, motus nodi medius a Sole
+erit ad motum ipsius Solis medium, ut area circuli ad aream ellipseos, hoc
+est ut recta T K ad rectam T H mediam scilicet proportionalem inter T K
+
+et T S; vel quod eodem redit ut media proportionalis T H ad rectam T S.
+
+inter lineas A T, a T interciperetur et termina-
+
+, ‚ · .. TBbeBssdTBbeBfi
+retur-arcu circuli centro T, radio T B descripti). -.-.-.-—.. a ——-—
+
+locout ΒΘΖ ΒΤ,
+
+Dividendo autem estTAa-—TBbsive ABba
+adTBbutAT2-BT2adBT2;estver6
+AT2-BT2= AB >< Ββ (pet-5. ΙΙ.
+Lib. El.)ergoABba ad TBbutABss ad
+B T quadratum·
+
+(f) ³¹* Et quoniam rectangulum K H M est ad
+H T quad. ut F Bsad B G quad. Ex natura
+ellipseos et circuli circumscripti, est ΚΤ ad HT
+> ut F Gad B G, etquadrando KT 2 ad HT2
+ut F G2 ad B G 2, et dividendo K T2-H T2
+adH T2utE G2ad B G2,sed (per5. Lib.
+ΙΙ. Elem.)KT2--HT2=KH>< HM
+et FG2-BG2= FB >< BfergoKHM
+adHT2utFBfadBG2.
+
+(g) ³* Et rectangulum AB ss=FBf (per 55.
+ΙΙΙ· Elem.) hoc ratiocinium ita exprimi potest3
+area A B b a ubi maxima eft, est ad T Β b ut
+A Β β ad B G 2 ergo ubi maxima est-A B b a
+
+TBb><ABss ,
+
+est -‚ m aliis vero locis area A B b a
+
+ 
+
+ 
+
+2
+est ad TBBGb ut A B β ad B T ², ergo illis in
+locisest -—-—--—-TBb χ A Bss
+
+2
+
+b T , est ergo area A B ba
+t d
+
+sive quia motus Solis qui per aream T B b ex-
+primitur est ubique idem, est area A B b a ubi
+maxima est ad aream A B b a in alio quovis
+
+Ble ad BszsiveutBT²ad BG²,
+
+sed in triangulo B T G est B T ad B G ut si-
+nus anguli recti G ad sinum anguli B T G per
+principia trigonum. et distantia Solis a nodo ubi
+area A B b a est maxima, nempe in K, mensu-
+ratur per angulum rectum, et ubi est in loco
+quovis A per angulum B T G, ergo area AB b a
+ubi maxima est, est ad aream A B b a in alio
+quovis loco ut quadrata sinuum distantiae Solis
+a nodo in utrovis loco, sed in ea sunt ratione
+motus nodorum in iis distantiis; ergo ut est area
+A B b a ubi maxima est ad motum nodi in eo
+loco, ita est area A B b a in alio quovis loco
+ad motum nodi in eo loco, sed ubi area A B b a
+maxima est, est ad motum nodi ut B T b ad
+motum Solis, ergo cumereae B T b et motus
+Solis ubique eadem maneant, est etiam in quovis
+loco area A B b a ad motum nodi ut arca Β Tb
+ad motum Solis sive alternando est ubique AB ba
+ad B T b ut motus nodi ad motum Solis. Et
+
+ 
+
+loco ut
+
+ 
+
+ubi maxima es a aream A B b a in alio quovis proinde summa omnium A B b a, &a
+

@@ -1,0 +1,185 @@
+LIBER Tmmus] PRINCIPIA MATHEMATICA.
+
+47
+
+B C E vel B C F aequalis duplae distantiae Solis a loco nodi, per motum
+medium invent03 et agatur A E vel A F secans perpendiculum D G in
+
+G 3 et capiatur angulus qui sit ad motum totum nodi inter ipsius syzygias
+(idest, ad 9⁹³. 11'. ΒΝ.) ut tangens D G ad circuli B F D circumferentiam
+totam? atque angulus iste (pro quo angulus D A G usurpari potest) ad
+
+motum nodorum a tempore quo Sol et nodus
+fuere conjuncti usque ad sequentem Solis syzy-
+giam cum eodem nodo, sector A T N repraesen·
+tabit motum medium nodorum eo tempore quo
+motu medio Solis et nodi, nodus et Sol arcu
+N A a se mutuo recessere.
+
+Tempus autem, inter duas syzygias Solis cum
+eodem nodo, hac ratione a Newtono determi-
+natur per observationes3 anno sidereo dum nem-
+pe Sol 5603‘. emetitur, motus nodi per obser-
+vationes astronomicas 193‘. 21'. 21⁰. 50'''. depre-
+henditur, in eadem autem erunt proportione viae
+Solis et nodi quae simul describuntur quocumque
+tempore, ideoque via Solis et via nodi inter duas
+syzygias Solis cum eodem nodo, erunt inter se
+ut 360 ad 193¹. 21¹. 220. 50'''., sed illae duae viae
+simul sumptae 3603‘. efficiunt, itaque 560 gradus
+dividantur in duas partes quarum uua sit ad
+alteram ut 5608‘. ad 19⁸¹. 21‘. 22⁹. 50'''. Haec
+ultima pars quae est 188¹. 22'. 6''. circiter, erit
+ς motus nodi inter duas syzygias Solis cum eodem
+
+nodo. ⁶
+
+modo determinabitur: si ex toto circulo NAnN
+duplum areae N F n tollatur, residuum est verus
+motus nodi inter syzygigs>3<se363alor areae N F T
+
+a÷b
+
+ad 1. In eadem vero erit ratione
+
+erat ad quadrantem ut ad 1. sive prox-
+
+ime ut*⁴ Ξ b
+duplumgaissae N F n (quod est quadruplum areae
+Νέξ Τ) ad totum circulum, ut itaque 1. ad
+a tf- b
+area circuli designat, ad numerum graduum de-
+signatum per duplum areae N F n, qui erit itaque
+ἷξ-ἓὲὺς cum ergo totus circulus numerum gra-
+duum ᾗ b designet in ''Prop. X XXI Ι . , et duplum
+
+ἓν
+
+ 
+
+ 
+
+ 
+
+ita ᾗ b qui est numerus graduum quem
+
+areae N F n designet
+
+ 
+
+hoc ex ᾗ· b tollatur,
+
+a†b’
+{abas-123
+³†b
+
+residuum
+
+ 
+
+est verus motus nodi
+
+inter syzygias.
+
+Itaque cum motus medius nodorum sit ut
+sector A T N, et motus verus nodi exprimatur
+per aream N A e; aequatio est ut A, T N —
+N A e, hoc est, cum totus circulus repraesentet
+motum nodorum inter syzygias, est 2 r c ad
+
+ATN—-NAeut {ab‡}b²
+a
+
+ξξὲῑῗὲξῗωΤΝ-ΝΛελωᾱῐηῃοι.
+
+ 
+
+ 
+
+ad aequat.
+
+Idem motus ex calculo Prop. XXXII„ hoc μ’
+
+a r ²
+ar²·†-by²
+N A Z (omissis caeteris terminis qui per D, E,
+&c- multiplicantur ut pote minimis). Itaque
+
+. ἦ a b 4- ᾗ b 2 a r ²
+fiet aequatio q r c (a—-b-ss) (NTA —ar2÷b y2><
+N A Z ); eum autem casum sumamus in quo
+A N est peripheriae octans‚ qula in prima hypo-
+thesi liquet eo in casu aequationem fieri maxi-
+mam, fiet y ² = 7} r ², et ea substitutione facta et
+loco N T A posito ejus valore T A Z -Ι- Ν A Z
+a a b ÷ -ὲ 1> ²
+
+2r0(a÷b)
+
+) et cum area circuli sit
+
+116. valor areae N A e fuit inventus
+
+ 
+
+Χ
+
+ 
+
+ 
+
+factaque reductione, evadet aequatio
+
+(T A z -ι- ’ἓξὲξ
+
+,785 dum quadratum diametri est 1, et octans
+circuli N T A sit ad ejus quadrati octautem
+
+ 
+
+ 
+
+ 
+
+cujus dimidium est T A Z in eadem ratione, est
+N T A ad T A Z ut ‚785 ad .5‚ ide6que divi.
+dendo est N A Z ad T A Z ut .285 ad .5‚ et
+est N A Z = .57 T A Z unde tandem aeq. evadit
+
+ιι ¹ 2 . .
+ἓξὲξ-ζ) ἓξὲξ-ἓξ) Τ A z: sed m
+
+hac hypothesi est T A Z = ἦ r 25 hinc aquatio fit
+’ξω-μὲν a÷.7sb*
+
+4c>< 2(a÷b)' a÷÷5b
+
+proportionem revocatur, 4 c sive tota circumfe-
+
+r et ad hanc
+
+ 
+
+quod est dimidium
+
+a†.78b²
+a-†--‚}b
+
+aequationem3 hoc modo autem construitur quan-
+
+aaz-{85 r, sive simplicius }‘‡“‘}g r, de-
+scribatur circulus B C D cujus radius 1} C = r
+= {- b; producatur C B in A ut sit A B = a
+
+42¹3b, ideoque Ac= a -ἧ- -12-b,etAD=
+
+motus nodi inter syzygias ut r ad
+
+ 
+
+titas
+
+ 
+
+,Da
+

@@ -1,0 +1,206 @@
+LIBER TERTms.] PRINCIPIA MATHEMATICA.
+
+ 
+
+8y2 1 7Μ2 3y2
+——r-—r-f2X(—r-÷A²r²x r
+sed ea distantia perpendicularis est in curva lu-
+narir-f2÷M}÷Sz2 4M2f2
+
+r A2 r A2r{
+
+5 z 2 . . . . .
+χ ( r - r) unde dlfferentia inter distantiam
+
+perpendicularem inMe·12lipsi et eam distantilequ {iq
+3
+
+A2‡X(5²—²²)'‘A2r³
+
+Χ (21 y 2 - 12 z 2 — 3 r 2), sive omisso hoc {liti-
+5 2
+
+- r),
+
+ 
+
+ 
+
+ 
+
+—r—
+
+ 
+
+ 
+
+ 
+
+orbita lunari, est
+
+ 
+
+ 
+
+mo termino propter f ², ea differentia est A 2 r
+
+>< (y 2 - z ²). Si apsides sunt in syzygiis, est
+y= r, et z = o, unde haec quantitas est maxima
+quae esse possit, unde distantia perpendicularis
+in ellipsi excedit distantiam in orbita lunari
+
+3 Μ 2 r . . .
+
+A 2 ; ει apsides sunt 1n quadratu-
+ris, fit y = 0, et z = r, unde haec quantitas
+{EI-2 ( 2—22 evadit—3M2ride6 uod
+A 2 r >< „y ) A 2 ‚ q
+
+ 
+
+quantitate
+
+ 
+
+distantia perpendicularis in ellipsi minor est dis.
+tantia in orbita lunari, unde fit ut orbita lunaris
+contineat intra se ellipsim3 si verd apsides sint
+in octantibus, evanescit y 2 - z 2 hinc ipsa orbita
+lunaris cum ellipsi coincidit.
+
+Cor. Ex hoc Theoremate liquet quod omissio
+vis quae agit perpendiculariter in radium orbitae
+lunaris, exhibet orbitae lunaris mutationem plane
+oppositam illi quae ex ejus consideratione dedu-
+ceretur omissa excentricitate orbitae ; nam sive
+apsides sint in syzygiis sivein quadraturis, liquet
+ex Theoremate praecedeuti orbitam Lunae pro-
+lon ari secundum lineam syzygiarum, contrahi
+vero secundum lineam quadraturarum, cujus
+oppositum statuebatur Prop. XXVIII. hujusce,
+ex consffleratione vis solaris totius, sed semota
+excentricitatis orbitae lunaris ratione3 hinc ergo
+ut mediocrem quodammoa. teneamus viam,
+jungemus incremento distantiae lunaris secundum
+hypothesim Theor. VII· calculi 2. invento, par-
+
+tem aliquam {nn- decrementi secundum methodum
+
+Newtonianam inventi3 uude sic medium quoddam
+inter ambas hypotheses obti-
+nebimus· Itaque quaevis dis-
+
+Χ 4
+tantia x evadet x -{- -r-3 χ
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROBL. I.
+
+Positis iis quae in Corollario praecedentis
+Theorematis statuuntur, et supposito orbitam
+lunarem, quomodocumque mutatam per Solis
+
+ 
+
+93
+
+actionem, ellipsi proximam esse, invenire leges
+excentricitatis orbitae lunaris·
+
+Primd cum distantia apogaea sit r -Ι- f, haec
+distantia loco x substituta in valore per Coroll.
+Theor. praecedentis reperto evadit r -Ι- f -l- {lg-Z
+Χ 5r4y2÷12r3fy²— M2><(r4÷4r³)
+
+- r ⁵ *W
+
+2 y 2
+
+4- -Ξ p >< (1 —- r 2 ); ut habeatur distantia
+
+mediocris loco x scribatur r, sinus autem ejus
+distantiae a quadratura proxima est quam proxi-
+me cosinus distantiae apogaei a quadratura proxi-
+
+ 
+
+ 
+
+ 
+
+M2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ma, ideoque loco y scribatur z, fit r -Ι- Α-Ξ ><
+3 z ² M 2 r n 2 2 2
+r -- ΑΖ -l-I—n-pxl— ΓΖ quae sub-
+
+stracta ex distantia apogaea relinquit excentrici-
+
+ΜΖ 514Xy2—z2-l—1'2rfy2
+
+tatemf÷fX7>< rs
+
+Μ2 2np y2—22 ,
+÷A—-2><4f-——m— >< ΓΞ»-,ᾳυωυωι3-
+
+ 
+
+ 
+
+5M²r -ΞΠΤΠ A 2 p
+
+sis terminis omittendis fit f -Ι- A 2
+
+yz—zz
+
+ 
+
+; hinc illius excentricitatis hae sunt
+
+1. Excentricitas est maxima cum apsides
+sunt in syzygiis, nam illic y fit r, et z = o, hinc
+2 n
+
+3 M 2 r —- — A 2 p
+excentricitas evadit f -ξ- A ΖΠ]
+2· Excentricitas est minima ciun apsides sunt
+in quadraturiS, illic enim est y = o et z = r,
+
+5M2r -- {E A2p
+
+unde excentricitas evadit f — A 2¹¹¹
+5. Excentricitas est mediocris cum apsides
+versantur in octantibus, estque = f, quia y²=z²
+
+ 
+
+5 M²r -Q A 2 p 2 2
+sicque evanescit A T Χ y r: ²
+F
+
+4. In aliis quibuscunque locis hac construc-
+tione obtinetur fere excentricitas, sumatur T C
+
+5M21-,2-1-n12A29
+
+=f,CB== A²
+
+, hoc radio
+
+G2
+

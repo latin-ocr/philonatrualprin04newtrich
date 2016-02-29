@@ -1,0 +1,222 @@
+mez TEn'rms] PRINCIPIA MATHEMATICA.
+
+Distantia Lunae apogaea dicatur> A, perigaea
+dicatur P„ sinus anguli apogaei et lineae quadra-
+nuatum sit y, vis Solis in apogaeo agens erit per
+
+F 355
+
+demonstrata A >( -g χ ( r -— r), et vis Solis
+
+ 
+
+ 
+
+agens in perigaeo, erit P >< {⁴³- >< 51 y — r), et
+y in utroque casu est εὲἀεηι quantitaS, dicatur
+3 y Y ⁹
+
+— r) ; siqui-
+
+ 
+
+itaque C haec quantitas] Χ ( r
+
+dem est constans ; vis Solis substractitia aut
+addititia· in apogaeo ac perigaeo erit A C vel
+P C; hoc est, erit ut quantitas constans C, ducta
+in distantiam A vel P; si itaque fingatur in
+punctis intermediis, eam vim esse etiam eandem
+constantem C, per distantiam ductam, aut saltem
+variationem quantitatis C compensari, tunc per
+Cor. 2. Prop. XLV„ et exempla tertia ejusdem,
+erit motus Lunae ab apside ad apsidem 560 ><
+
+‚, si V sit ut vis gravitatis Terrae in
+
+—C
+V-—4C
+
+>< (1 -Ι- {gb ide6que motus apsidis erit :360 ><
+
+= 360
+
+ 
+
+data distantia, est vero 360 Μ
+
+ 
+
+SC
+
+{V tota revolutione synodico-anomalistica quam
+
+pro synodica sumimus·
+Loco C litteram Y quae in toto calculo desig.-
+
+nabat quantitatem XF χ (3 Ξ y
+
+et fingatur talem esse apogaei motum ut ubique
+
+ 
+
+— r) resumamus,
+
+sit proportionalis motui 360 >< 2—V durante
+
+mense synodico quod quidem ex praedictis con-
+sequitur, fingaturque Solem immotum stare et
+apogaeum ojus respectu in antecedentia regredi,
+totamque revolutionem respectu Solis tempore α
+absolvere, sit ergo c tota peripheria, apsis per-
+
+curret respectu Solis arcum d u tempore α d u
+
+ 
+
+ideo tempore synodico S percurret 360⁹.c ><
+
+ΒΥ adu
+
+ἴϋ- motu sue, tempore c percurret {— χ
+
+ngu, sed quia est ξ = vla >«33y
+
+{aaz elementum motus apogaei est
+
+VoL. 111. Paas ΙΙ.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2V
+etE-
+V
+
+91
+
+a 3 Μ Μ
+ἶ χ 2 A A r 2
+tegralis est (si fingatur apogaeum a quadratura
+
+ἐκ
+
+ad syzygiam in antecedentia retrocedere) S
+
+ZZARffilifiXae'r-l: yd Ζ -Υ ² u) est autemst ydz
+ὥ M
+
+= C P E, hinc sumendo -- pro unitate, est
+
+S A
+ἕέατ >< (3 C P E — r u) et pro quadrante ἕέῐτ 3
+r c
+
+>< r—gf et pro clrculo 235¹} >< -2- prope ut in
+
+praecedenti Theoremate.
+Hinc si sumatur motus apogaei proportionalis
+
+tempori, dum apogaeum discedet a Sole arcu u,
+
+ejus motus esse debuisset Q >< 1β-ῑ-ι cum reve-
+
+2Ar 2
+„32¹¹ >< (3 e P E-ru),hin0
+
+aequatio est 23³² >< (3 {u
+
+ssss-zz
+ο
+
+..a
+
+x(5yydu—r2du),cujusin-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ra inventus sit
+
+ 
+
+ 
+
+ 
+
+—SC PE), sed
+
+per constr. hinc aequa-
+
+ 
+
+Syz 2yz
+
+2 A r Χ ss· 2 ’ sed r
+οὓς dupli distantiae a Sole, hinc itaqu' -iiaec
+aequatio est ut sinus arcus dupli distantiff' ”’ “ gaei
+a Sole, unde lex aequationis habeturff‘quod sit
+maxima in octantibus, nulla in syzygiis et quad-
+
+raturiS, positiva a quadraturis ad syzygias, nega-
+
+est sinus ara
+
+ 
+
+ 
+
+ 
+
+tiva inde, sed ejus quantitas, non per hunc cal· ,2
+
+culum, sed per observationes est determinanda,
+siquidem, ut observatum est, hypotheses adhibitae,
+utut a motu apsidum non dissimiles, attamen
+ipsius quantitatem dimidio fere minorem exhi-
+bent. De his in notis subsequentibus plura.
+
+DE EXCENTRICITATE ORBITAE
+LUNARIS.
+
+Ipsa curva quam Luna describit, posset deten
+minari per calculum adhibita ejus curvae fluxione
+secunda, quae obtinetur subtrahendo vim solarem
+a vi Terrae3 audivimus autem viros in mathesi
+primarios hoc Problema‚ quod certe non est
+exiguae difficultatis, suum fecisse; cum autem
+nobis videatur Newtonum non aliter hanc cur-
+vam investigasse quam per approximationes
+quasdam, eadem methodo, tenui nostro modulo
+magis accommodata, idem persequi conabimur.
+
+1. Propositione XXVIII. hujus Libri quae-
+sivit Newtonus qualis foret orbita lunaris ex
+
+ἶ suppositione illam citra actionem Solis circularem
+
+esse, et invenit quod si assumatur eam orbitam
+fieri ellipsim per Solis actionem, ea ellipsis Ter-
+ram in centro haberet, et ejus axis minor foret ad
+majorem qui secundum lineam quadratur-arum
+
+- r) jaceret, ut 69 ad 70. -
+
+Hinc deducitur quod si semi-axis major 70
+dicatur r -f- p, semi-axis minor 69 sit r — p,
+
+. distantia Lunae a Terra in loco quovis dicatur
+G
+

@@ -1,0 +1,149 @@
+‘Lmssn Tamna] PRINCIPIA MATHEMATICA.
+
+97
+
+(⁰) Motus autem Solis est in duplicata ratione distantiae Terrae a Sole
+
+inverse (P) ct maxima centri aequatio, quam haec inaequalitas generat, est
+lgr. 56'. 20⁰. praedictae Solis eccentricitati lssffi- congruens, (q) Quod si
+motus Solis esset in triplicata ratione distantiae inverse, haec inaequalitas
+
+generaret aequationem maximam 23¹⁸. 54'. 30²2
+
+(r) Et propterea aequa-
+
+tiones maximae, quas inaequalitates motuum apogaei et nodorum Lunae
+generant, sunt ad 23¹⁶. 54². 30“. ut motus medius diurnus apog-aei, et motus
+medius diurnus nodorum Lunae sunt ad motum medium diurnum Solis.
+
+Unde prodit aequatio maxima medii motus apogaei 19'. 43''. et aequatio
+
+maxima medii motus nodorum 9'. 24²².
+
+(⁰) ²* Motus Solis esc in duplicat& ratione dis-
+tantiae inverse scilicet motus Solis angularis e
+Terra spectatus ; nam cum Sol describat semper
+areas tempori proportionales, arcus quos revera
+describit sunt semper inverse ut distantiae, sed
+praeterea magnitudines apparentes eorum arcuum
+e Terra spectatorum sunt etiam inverse ut eorum
+a Terra distantia, ergo arcus quos Sol singulis
+tempusculis aequalibus describere videtur e Terra,
+sunt in duplicata ratione distantiarum inverse.
+
+(Ρ) Et maxima centri aequatio est lgr· 56'. 20”.
+Illam lgr. 55¹· 50⁰. facit Ill. cassinus.
+
+(q) ³* Quod si motus Solis esset in triplicat&
+ratione distantiae inverse,- dicatur M motus Solis
+in distantia mediocri, quae dicatur a, et distantia
+quaevis alia sit a ὲ·- x; si motus Solis esset in
+triplicata ratione distantiarum inverse, in distantia
+
+a 3 . a ³ M
+assx foret ατς- Μ sive ——————-
+a -1- 1 ³ a³ss 3a²21÷3ax²ss x3
+aut formando seriem, is motus in distantia a ὲ x
+
+3x
+
+erit M ss 7⁸— M omissis reliquis terminis ob exi-
+
+X
+
+guitatem fractionis ἶ; ide6que differentia mo-
+
+tus in distantia vera et motus in distantia medio-
+
+-3x
+
+cri foret 4 -Ξ- m: in vera autem hypothesi quod
+
+Solis motus crescat in ratione subduplicata in-
+versa distantiarum, eodem ratiocinio invenitur
+a2 M
+a²ss2ax†x2
+
+. . . . . ... 2 Χ
+et divisione facta erit is motus M 4- .-8- Μ, et
+
+quod in quovis loco motus Solis erit
+
+ 
+
+differentia motus veri et motus medii erit ξ
+
+21
+
+ῖ- Μ, eritque ergo haec differentia ad differen-
+
+, tiam in priore hypothesi inventam ut 2 ad 3 in
+omnibus locis correspondentibus ; sed aequationes
+conflantur ex summa differentiarum motus veri
+et medii sumptarum in omnibus locis ab aphelio
+usque ad locum eum' ’ ubi aequatio applicatur;
+cum ergo in utraque hypothes¹ singulae differen-
+tiae motiis veri et medii sint in omnibus punctis
+correspondentibus in ratione constanti 2 ad 5
+crunt etiam summae earum differentiarum in
+ἢ locis correspondentibus, ipsae nempe aquationes
+
+(ὃ) Additur vero aequatio prior
+
+in eadem ratione, ergo maxima centri aequatio
+in hypothesi vera motum Solis decrescere in du-
+plicata ratione distantiarum cst ad aequationem
+maximam in hypothesi fictitia motum Solis de·
+crescere in triplicata ratione distantiarum ut 2
+ad 3 curn ergo aequatio maxima sit per observa-
+tiones lgr. 56'. 20¹2 haec altera erit} >< lgr. 56‘.
+200. sive 23¹· 54'. Son· Q· e. d.
+
+(³) ³¹⁵ Et propterea oequationes mamimoe, quas in-
+aequalitates motuum apogoez· et nodorum Lunae ge-
+nerant, sunt ad 23¹. 54'. 30⁰. ul motus medius
+apogoei et nodi ad motum medium Solis. Nam
+statutum est motus horum esse in triplicata ra-
+tione distantiarum inverse, §t g motus medius
+apogaei in mediocri nempe distantia, n motus
+medius nodorum, et m motus medius Solis,
+decrescantque in triplicata ratione inversa dis·-
+tantiarum, deprehenditur eodem modo ac in
+notit praecedente quod in quolibet loco differentiae
+inter motum verum et motum mediocrem erunt
+
+—Sx —Sx -ΒΧ
+
+4 -a- g, 4. a— n, 4. -Ξ- m, aequationes maxi-
+
+mae sunt summa earum quantitatum sumptarum
+ab apogaeo Solis usque ad mediocrem ejus a
+
+Terra distantiam, itaque illae aequationes consti-
+3 x 5 x
+
+tuuntur per series omnium -Ξ- g, omnium Tu,
+. 3 Χ .
+et omnium -Ξ- m, qualescumque ergo smt
+
+illae quantitates variabiles x, cum eaedem sint in
+tribus hisce seriebus summae earum serierum
+sive aequationes maximae, erunt inter se ut illae
+quantitates g, n et m, per quas omnes partes
+singularum illarum serierum ducuntur, illae vero
+quantitates sunt motus medii apogaei‚ nodi et
+Solis, ergo data una ex his aequationibus, v. gr.
+data aequatione maxima Solis et motu medio
+apogaei, nodi et Solis, habentur caeterae aequa-
+tiones maximae statuendo illas esse ad eam
+aequationem datam, ut ii motus medii dati.
+
+Liquet vero ex ipsa hac demonstratione, verum
+quidem* Solis motum medium assumi debere, non
+autem veram ipsius aequationem, sed eam quae
+prodit fingendo solis motum in triplicata ratione
+distantiarum decrescere.
+
+(³) *² Additur verb oequatio apogaei Lunae ec
+subducitur aequatio nodi ubi Terra pergit a pert-
+

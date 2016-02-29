@@ -1,0 +1,87 @@
+152 PHILOSOPHIAE NATURALIS [DE MUND. Srs‘r.
+
+Eadem methodo, qua puncta E, A, C, G, ex assumpto puncto B in-
+venta sunt, invenientur ex assumptis utcunque punctis aliis b et β puncta
+nova e, a, c, g et ε, α, κ, 7. Deinde si per G, g, γ ducatur circumferentia
+circuli G g γ, secans rectam τ C in Z: erit Z locus cometae in plano
+eclipticas. Et si in A C, a c, α κ capiantur A F, a f, α φ ipsis C G, c g,
+κ 7 respective aequales, et per puncta F, f, φ ducatur circumferentia cir-
+culi F f φ, secans rectam A T in X; erit punctum X alius cometae locus
+in plano eclipticae. Ad puncta X et Z erigantur tangentes latitudinum
+cometae ad radios T X et τ Ζ, et habebuntur loca duo cometae in orbe
+proprio. Denique (per Prop. XIX. Lib. I.) umbilico S, per loca illa duo
+describatur parabola, et haec erit trajectoria cometae. Q. e. i.
+
+(¹) Constructionis hujus demonstratio ex Lemmatibus consequitur]
+
+ 
+
+quippe cum recta A C secetur in E in ratione temporum, per Lemma γ ’ἶ
+
+ΒΠΠῒ puncta Ε, A Cs G ΘΧ assumptis affiS locum B, esse vestigium cometae in observatione
+punctis bet β, “Nemantur nova punct& e, a, C g secunda si puncta N, P, coincidant‚ itemque
+et ὅ) a, ⁷0 '7- QUOd Sl longltUdO prius mvema A et F· ‚ quare si reliquis manentibus, coincidant
+M P, mmor fu‘fflt quam Μ N· aut A G, Vel puncta C, G, erit C, vestigium cometae in obser-
+C F', punctum b, sumendum ent PYOP¹J¹S vatione tertia Sirriiliter coincidentibus punctis
+punem Y ¹¹¹ ‘1¹¹0 C ⁴⁷ et A T concursum, et ¹123» A, F, erit A, vestigium cometae in observatione
+P0¹‘¹‘02 1ῖᾶ Ut saltem a ‘7 mmor fiat quamoe κ· prima· Ut autem puncta illa coinciderent‚
+Per puncta G, g, Ὺ» describatur ‘memus ‘11¹¹ traductus est circulus transiens per tria puncta
+G, g, ry, rectam ιι- C, secans in Ζ Cum igitur
+punctum Z, sittarn in loco punctorum C, nempe
+recta τ C, quam in loco punctorum G, nempe
+circulo, quando punctum C reperitur in Z,
+
+punctum G in illo etiam reperietur, id est, in,
+isto casu coincident puncta C, G, ideoque punc-
+tum Z est verum cometae vestigium in plano
+eclipticae in observatione tertia, huic enim con-
+veniunt omnes conditiones requisitae. Similiter
+ob easdem rationes, punctum X est verum
+cometae vestigium in observatione prima. Quare
+si ex puncto Z, ad planum eclipticae excitata in-
+
+telligatur normalis Z R aequalis tangenti latitu-
+dinis notae in observatione tertia ad radium τ Ζ,
+
+erit R locus verus cometae in orbe proprio. Si-
+
+militer ad planum eclipticae erigatur perpendicu-
+laris X Y, aequalis tangenti latitudinis m obser-
+
+vatione prima ad radium Τ Χ, punctum Y, erit
+alter cometae locus' m orbe proprio. Quare (per
+Prop.1 XIX. Lib. Ι.) umbilico S, per loca bina
+R, r, describatur parabola, haec erit trajectoria
+cometae. Quia vero parabolae per puncta ·R, r,
+et umbilico S, descriptae duplex positio esse
+potest (ut patet ex constr. Prop. XIX. Lib. 1. )
+ex eodem umbilico S, et binis punctis R, r, duae
+describi poterunt parabolae3 utra autem pro orbe
+cometae sumenda sit ex alia quavis cometae ob-
+servatione manifestum erit. Nam locus cometae
+
+ 
+
+rectam er C, secabit inter G et κ, puta in Z, si
+puncta nova b, β, sumpta fuerint, ut jam dixi-
+mus· Similiter per puncta. F, f, φ, describatur
+
+circulus rectam T A intersecans in X, erunt
+puncta Z, X, loca cometae ad eclipticam reducta,
+sive cometae vestigia in observatione prima et
+tertia, si B sit ejusdem vestigium in observatione
+secunda. Idem similiter obtinet in a, c, et b,
+item in a, κ, et β. Jam vero demonstratum est
+
+qui ex altera harum parabolarum colligetur, cum
+observato loco conveniet, locus autem ex alteia
+
+⁶ parabola deductus nequaquam observationibus
+
+congruet.
+
+(¹) '⁸ constructionis hujus demonstratio. Pa..
+tet ex notis praeced.
+
+ 
+

@@ -1,0 +1,107 @@
+128
+
+Idem colligitur ex curvatura viae cometarum.
+
+PHILOSOPHIAE NATURALIS [DE Mum). SYsT‚
+
+(d) Pergunt haec cor-
+
+pora propemodum in circulis maximis quamdiu moventur celerius; at in
+
+jam determinavimus, ut autem veram obtinea-
+mus cometae trajectoriarn, ex loco H, ad planum
+eclipticae erecta intelligatur normalis H M, tan-
+gens anguli latitudinis cometae ad datum obser-
+vationis tempus posito A H, radio, eritque M,
+locus verus cometae ad tempus datum; est enim
+positio rectae A H, ejus longitudo et angulus
+M A H, latitudo. Similiter in loco V, ad idem
+eclipticae planum erigatur normalis V L, aequa-
+lis tangenti latitudinis ad idern tempus obser-
+vatae, sumpto D V, pro radio, erit L, locus
+verus cometae, ideoque juncta recta L M, est
+ipsa trajectoria quaesita. Patet autem distan-
+tiam loci M, ab A, sive rectam A M, esse ad
+rectam A H, ut secans latitudinis in H, ad ra-
+dium, et ita porro de aliis cometae locis.
+
+133. Caetera quae ad motum cometae pertinent
+facile definientur. Invenitur L M, recta scili-
+cet percursa a cometa, dum Tellus ab A ad D
+movetur. Ducatur enim L P ipsi V H paral-
+lela cum recta Μ Ε concurrens in P. . Ι n trian-
+gulo P L Μ, praeter angulum rec-
+tum in P, datur latus L P, aequale
+lateri V H, atque etiam datur latus
+P M, aequale differentiae rectarum
+datarum M H, L V, quare dabitur
+L M. ProducaturM L, donec cum
+H V, concurrat iri N, erit N nodus.
+Praeterea N V erit ad V L, ut V H
+ad P M, itemque L N ad L V ut
+L M ad M P, et ideo dabuntur Χ Α
+L N, L V; capiatur tempus quod
+sit ad tempus inter obseryationem
+in M, et observationem m L, ut
+N L ad L M, habebitur tempus
+inter observationem in L, et appul-
+sum cometae ad nodum; cum enirn
+cometa in linea recta uniformiter
+moveri supponatur, tempora sunt ut
+spatia· Dabitur quoque locus come-
+tae in nodo versantis; cum enim de-
+tur punctum N, et propter tempus
+cognitum inter observationem in L,
+et appulsum cometae ad nodum, de-
+tur quoque locus Terrae pro 1100 mo-
+mento, dabitur positio rectae haec Λ
+puncta jungentis, hoc est longitudo
+cometae in nodo existentis. Tandem
+ob datam distantiam nodi a loco V
+datamque latitudinem cometae in
+eodem loco, dantur in triangulo
+sphaerico rectangulo latera duo 'circa
+angulum rectum, ac proinde in-
+notescit inclinatio hypothenusae, id
+est, semitae ipsius cometae ad eclipticam.
+
+134. Ex dictis colligitur quii ratione ad tem-
+pus quodlibet propositum definiri possint locus
+cometae e Terra visus, illiusque distantia a Terra.
+Determinentur ut supra vestigium orbitae in
+plano eclipticae H E V R, ipsaque vera cometae
+orbita M L N Q· Capiatur H R ad H V, ut
+
+spatium inter observationem primam tempusque
+datum ad spatium inter observationem primam
+et quartam. Dato Terrae loco ad tempus pro-
+positum, puta F, datur positio rectae F R, ac
+proinde datur longitudo cometae quaesita (152).
+Praeterea fiat R Qad R N, sicut M H ad H N,
+patet dari latitudinem cornetae ad tempus datum
+(loc. cit. ). His autern datis. obtineri potest
+distantia cometae a Terra¹ (ibid.) in hac ergo
+hypothesi quod cometae in lineis rectis uniformi-
+ter moveantur, determinari possunt praecipua
+motfis cometarum elementa. Hac de re con-
+sulat lector opusculum clariss. viri Dominici
+cassini de Cometa an. 1664; Davidis Gregorii
+Astronomiam Physicam, et Cassini filii Theo-
+riam Cometarum in Monumentis Paris. an.
+1727.
+
+(d) ²* Pergunt lzaec corpora. Est et alia
+parallaxis proveniens ex motu Terrae circa So-
+lem. Haec latitudinem cometarum respicit,
+hoc est, distantiam eorum ab ecliptica versus v
+
+ 
+
+boream aut austrum, unde fit ut cometae in
+sphaera fixarum a cursu circulari deflectere et
+lineam admodum irregularem videantur descri-
+here. cum enim planum in quo cometa move-
+tur, cum plano eclipticae in quo Terra fertur,
+non coincidaa cometa modo supra eclipticam in
+septentrionem ascendit, modo insi-a eclipticam in
+

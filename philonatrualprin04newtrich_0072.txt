@@ -1,0 +1,105 @@
+54
+
+PHILOSOPHIAE NATURALIS [DE Mam). SYsT.
+
+PROPOSITIO II.
+
+‘⁶ Dato motu medio nodorum Lzmoe invenire motum verum.
+
+‘⁶ Sit angulus A distantia Solis a loco nodi mediO, sive motus medius
+Solis a nodo. Tum si capiatur angulus B cujus tangens sit ad tangentem
+anguli A ut T H ad T K, 1100 est in subduplicata latione motus medio-
+
+eris horarii Solis ad motum medio-
+crem horarium Solis a nodo in
+quadraturis versante 3 erit idem an-
+gulus B distantia Solis a loco nodi
+vero. Nam jungatur F T et ex
+demonstratione Propositionis supe-
+rioris (¹²) erit angulus F T N dis-
+tantia Solis a 1000 nodi medio, an-
+
+gulus autem A T N distantia a loco
+ver0, et tangentes horum angulorum
+
+sunt inter se ut T K ad T H.
+‘⁶ Corol. Hinc angulus F T A
+est aequatio nodorum Lun'ae, (i) si-
+
+R
+
+ 
+
+nusque hujus anguli ubi maximus est in octantibus, est ad radium ut K H
+
+adTK÷TH.
+
+(¹³) ³* Erit angulus F TN distantia Solis a
+loco nodi medio. Cum circulus N K n M re-
+praesentet· totum motum Solis a nodo inter syzy-
+gias proximas cum eodem nodo, sectores ejus
+circuli ut F T N repraesentabunt motum medium
+Solis a nodo, tempore quod erit ad totum tempus
+motus Solis inter syzygias cum eodem nodo, ut
+erit is sector assumptus ad totum circulum.
+
+Ducatur vero F G quae occurrat ellipsi in Β,
+cumque sectores elliptici Β T N repraesentent
+Solis motum qui uniformis supponitur, ii secto-
+res B T N sunt proportionales tempori; sed
+sector ellipticus B T N erit, ex natura ellipseos
+et circuli circumscripti, ad totam ellipsim ut sec-
+tor circularis F T N ad totum circulum, ide6que
+tempus quo Solis motus repraesentabitur per
+B T N erit idem ac tempus quo Sol a nodis
+recesserit motu medio repraesentato per F T N,
+sed dum Sol describit sectorem B T N, vero
+motu recedit a nodo sectore N T A, per dem.
+Prop. super. ergo sector F T N repraesentat me-
+dium motum Solis a nodo, eo tempore quo verus
+ejus a nodo motus repraesentari debet per NTA,
+ergo medius motus est ad verum ut angulus
+T N ad angulum A T N, tangentes autem ho-
+rum angulorum, sumendo T G pro radio, sunt
+F GetBG‚et F Gestad B G ut KTadKH
+
+ex natura circuli et ellipseos.
+
+(¹³) Sinus autem hujus aequationis in 1000 quovis alio
+
+(¹ ) ⁴ Sznusque hujus anguli in octantibus est
+ad radium ut KHad :PK-1· Τ Η. Ex prin-
+cipiis trigonometricis, est sinus hujus anguli
+F T A qui est aequatio nodorum Lunae ad sinum
+anguli T F G, qui in hoc casu est 45³¹. (cujus
+ergo sinus est T qA 4! ἶ) ut est F Β ad B T,
+sive omnes terminos quadrand03 est quad. sinus
+
+T32utm32ad BT2sivet01-
+
+lendo fractionem, est quadr. sinus aequationis
+quaesitaeadTA2utFB2ad2BT²,sedBT²
+=B G2÷TG2 etin octantibus est TG==
+FG sive Β G÷ B F cujus quad. est Β G2-{-
+213G>< BF÷BF2hincssT2=2BG2
+ἰι---ΩΒΘΧ1)κ“--Ι-Β1’<“201(.),ΒΤ2---4Β(12
+
+ 
+
+aequationis ad
+
+4 B G >< Β F -Ι- 2 B F 2, cujus radix quad-
+rata (negligendo B F ²) est 2 B G -Ι- Β F =
+F G -Ι- Β G: ergo tandem cum sit quad. sinfis
+aequationis quaesitae ad T A ² ut est F Β ² ad
+2 B T 23 radices quadratas omnium terminorum
+sumendo est sinus aequationis ad T A sive ad
+radium utest FBad FG4BG, sed estB F
+ad FG÷BGutKHadTK4 TH, hinc
+tandem, sinus aequationis maximae est ad radium
+ut K H ad T K 4- T H.
+
+(Κ) ²* Sinus autem aequaticmis in loco quovis
+alio, &c. Ut hoc commode demonstretur, hoc
+Lemma adhibendum est.
+

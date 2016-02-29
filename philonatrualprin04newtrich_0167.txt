@@ -1,0 +1,109 @@
+LIBER TERTIUS] PRINCIPIA MATHEMATICA.
+
+149
+
+Ad A C bisectam in Ι erigantur perpendicula A M, C N, I O, quorum
+A M et C N sint tangentes latitudinum in observatione prima ac tertia
+ad radios T A et τ C. Jungatur M N secans I O in Ο. Constituatur
+
+rectangulum i Ι λ α ut prius.
+
+tamen loca A et C, inde deducta non sunt satis
+accurate definita, hinc adhiberi debet aliqua cor-
+rectio. Manente constructione Newtoniana‚
+concipiantur demissa a singulis trajectoriae come-
+ticae punctis perpendicula ad planum eclipticae,
+praedictis perpendiculis in plano eclipticae, signa-
+
+bitur curva parabolica A B C, cujus umbilicus S..
+
+Hujus arcus A B C, rectis TA, T C compre-
+hensi chorda est quamproxime recta C A, qua>
+bifariam d1viditur in 1, (ex dem.) J am vet& in
+
+.ss
+
+ 
+
+Ca
+
+praedicto arcu sumptum est punctum B, non
+procul a vertice segmenti A B C, nam capta
+sunt tria observationum tempora aequalibus fere
+intervallis ab invicem distantia, ita tamen ut
+tempus sit paul& majus ubi cometa tardius move-
+tur. Praeterea ducta est recta ad C A parallela
+concurrens in i cum normali erecta a puncto I
+ad rectam C A, junctaque cst secans S i, com-
+pletumque parallelogrammum i I λ. μ. Quia
+ο veri) respectu immensae Solis distantiae, evanescit
+
+· a Sole obtinet.
+
+In Ι A producta capiatur I D aequalis
+
+distantia punctorum I, μ ; erit a fere vertex
+segmenti A B C. Jungatur μ, S, secans chor·
+dam A C in Y, erit μ Υ, fere parallela i λ, ob
+immensam puncti S distantiam, ideoque λῩ,
+aequalis rectae i μ, ac proinde et ipsi Ι λ. Sed
+(ex constr.) Ι o· sumpta est tripla ipsius I λ,
+quare est etiam tripla ipsius λ Y et reliquae Y o·,
+ideoque juncta o· S, (165.) ea ipsa est recta o S,
+quae exhibetur in Lem. VIII. id est, in recta
+a· S, producta versus S, reperitur punctum ξ, a
+
+⁸ quo ducta quaevis recta chordam A C arcumque
+
+C B A secans, chordam secat in segmenta quae
+eandem babent rat-ionem cum temporibus quibus
+respondentes arcus a cometa describuntur. Sed
+(exconstr.)c}=5 So÷ ssizetia= Ιμ,
+sunt enim rectae i λ, I μ diametri ejusdem paral-
+lelogrammi rectanguli, hinc αξ = 3 a· S -l- 3 Ι μ..
+Quare (140.) punctum ξ, supra inventum, illud
+est ex quo ducta utcumque recta dividit chordam
+C A in ratione temporum quibus binae partes
+arcus A C ab eadem recta producta notatae, a
+cometa describuntur. Deleta igitur, ad vitan-
+dam confusionem, priore B -Ε versus S ducta,
+acta est nova versus ξ, quae est ad priorem ut
+quadratum ipsius S B, ad quadratum ipsius
+
+1 . .
+S μ, -ξ- 3 1 λ, hoc est propter aequales 1 λ, Ι μ
+
+ad quadratum ipsius S μ, -1- -ὲ- Ι μ, et S B est
+
+quamproxime aequalis ipsi S pc. Quare nova
+Β Ε, est ad priorem B E, ut S μ 2, ad S N ²,
+posita μ N triente ipsius I μ, sive i λ, ut in
+constr. Lem. X. Deinde gravitas acceleratrix
+versus Solem in loco N, est ad gravitatem acce-
+leratricem versus eundem in loco B, vel μ, ut
+S B 2 vel S μ 2 ad S N 2. Praeterea gravitates
+acceleratrices versus Solem in distantiis diversis,
+manentibus dictis viribus, sunt ut spatia eodem
+tempore versus Solem cadendo descripta3 est
+igitur nova B E, ad priorem B E, ut spatium
+versus Solem cadendo percursum, urgente vi
+acceleratrice quae urget in loco N, semisse tem-'
+
+oris quo cometa describit arcum longitudinibus
+v A, T C, comprehensum, ad spatium eodem
+tempore versus Solem cadendo descriptum, ur-
+gente vi acceleratrice quae urget in loco B. Sed*
+aequales sunt hujus analogiae consequentes, quare
+aequantur'etiam antecedentes, ideoque nova recta
+
+*B E aequatur spatio a grave cadente versus So-
+
+lem percurso, semisse temporis quo‘cometa arcum
+A Β.Ι C, in ecliptica describit, urgente vi accelera-
+trice uniformiter continuata quae in distantia S N,
+At (Lem. XI.) spatium per
+quod corpus decidit versus Solem semisse tempo-
+ris quo cometa describit arcum A B C, cum ur-
+getur vi acceleratrice uniformiter continuata quae
+iu loco N obtinet, aequale est rectae μ Y, seg-
+

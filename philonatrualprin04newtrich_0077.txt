@@ -1,0 +1,164 @@
+LmER Tamna] MATHEMATICA PRINCIPIA.
+
+Corol. 3.
+
+59
+
+Proinde in dato nodorum situ, variatio mediocris horaria,
+
+exv qua per mensem uniformiter continuata variatio illa menstrua generari
+
+posset, est ad 33''. lO'f'. 331⁸& ut A Z >< Τ Ζ >< {g ad 2 A Τ q sive ut
+
+Pp>< {AT
+
+nus inclinationis praedictae ad radium,
+
+xTZxPP-{adexATcun Siin
+
+hac ratione loco circuli Q A q a, ponatur ejus
+
+valor qui est circumferentia Q A q a ducta in
+
+dimidium radii seu in ΑΞΖΓ, haec ratio licet, cir-
+
+cumferentia Q A q a Χ A Τ
+
+2
+1135& ad M p >< A T cub. Multiplicetur uter-
+
+que terminus per 2. et dividatur per A T, non
+mutabitur ratio et fiet ut circumferentia Q A q a
+
+ducta in A Z >< ΤΖΧ ζ-ῙέαάΜΡΧΑΤᾳιι.
+
+><AZ><TZ><
+
+(⁸) Ut sinus duplicati anguli. Ex trigono-
+metriae elementis sinus duplicati anguli A T n
+sive A T N, cujus sinus est A Z et cosinus T Z,
+2AZ><TZ . AZ><TZ
+
+A T ⁵¹oe W'
+
+ 
+
+ 
+
+est
+
+Quando autem duplum anguli A T N excedit
+semi-circulum, sive quando angulus A T N est
+rectus, signum sinus dupli anguli A T N, fit
+negativum ex positivo 3 quando angulus A T N
+excedit 1803¹. signum sinas ejus dupli iterum
+fit positivus, sicque deinceps.
+
+Positivum autem signum designat angulum
+planum per variationem minui, negativum ver&
+signum eum angulum augeri significat, ita ut
+angulus minuatur dum nodus N recedit ex con-
+junctione A ad quadraturam ultimam Q, crescit
+verb dum nodus a quadratura Q ab oppositionem
+a movetur, iterum minuitur dum ab oppositione
+ad primam quadraturam q tendit, et denique
+
+· augetur dum a quadratura q ad conjunctionem
+
+A redit3 ita ut inclinationis angulus sit minimus
+cum nodi in quadraturis Q et q versantur, maxi-
+mus vero cnm nodi sunt in syzygiis A et a; quae
+lex ab astronomis est observata, sed paulo accu-
+ratius ostendendum id sequi revera ex heic Pro·
+positione.
+
+Sit nodus N ubivis inter conjunctionem A et
+ultimam quadraturam Q, ductaque F T f per-
+pendiculari in lineam nodorum, dum Luna mo-
+vebitur ex N ad F inclinationis variatio designa-
+bitur per aream N A F T h, cumque Luna
+tum versetur inter nodum et remotiorem quadra.
+turam, motus nodi erit regressivus, ideoque cum
+linea Y T fiat semper remotior a Luna quarn
+linea N T (punctum Y quod hic exaratum non
+est designat novum locum in quem nodus ad.
+scendens Lunae movetur) inclinationis Lunae
+
+Vot.. ΙΙΙ. Pras ΙΙ. E
+
+QadPGx4AT‚idest(cf1mPpsitadPGut si-
+
+AZxTZ
+
+et -l
+2
+
+sit ad 4 A T (ε) ut
+
+ 
+
+-—-—.
+
+angulus ad lineam T Y rel-atus minor erit quarn
+si ad T N referretur, area ergo N A F T h de-
+signabit imminutionem anguli inclinat. dum
+pergit Luna ab N ad F.
+
+Dum Luna movetur ab F ad q pergit quidem
+ut prius nodus in antecedentia, sed producta
+linea Y T, ejus productio erit vicinior Lunae in
+area F q existenti quam productio lineae N T,
+ideoque inclinationis Lunae angulus ad produc-
+tionem lineae T Y relatus major erit quam si ad
+lineam T n refeiretur, sed hoc in casu area F R q
+designat inclinationis variationem, ergo area
+F A q designat incrementum anguli inclinationis.
+
+Dum Luna ab n ad f movetur, motus nodi fit
+regressivus et ex N in Y migrat, et lineae Y T
+productio remotior est a Luna in area n f ver-
+sante quam productio lineae N T, ideo angulus
+inclinationis minor erit quam si ad lineam T n
+referretur3 ca vero variationis mutatio designatur
+per aream H n a f quae idco imminutionem an·-
+guli inclinationis designat.
+
+Ab f ad Q crescit quidem inclinationis an-
+guluS, quia refertur ad lineam T Y; totum
+itaque illud variationis incrementum designatur
+per aream Ω f r, sed a Ω ad n, cum motus nodi
+fiat progressivus, referaturque inclinationis an-
+gulus ad T l, minuitur is angulus, totaque im-
+minutio designatur per aream N h r Q.
+
+Resumantur haec omnia, deprehenditur immi.
+nutionem anguli inclinationis exprimi per areas
+NA Fh, anR, Hn afet Nth, quarum
+prima et ultima efficiunt Q A F T r, duae mediae
+aream q a f F R.
+
+Totum verb incrementum anguli inclinationis
+exprimitur per areas F R q et Q f r, quarum ha²c
+detracta ex area Q A F T r relinquit semi· circu-
+lum Q A F f, prior detracta ex areae q a f T R
+relinquit semi-circulum q a f F ideoque circulus
+
+totus Q A q a designat imminutionem anguli ⁴
+
+inclinationis cum nodus versatur in quovis puncto
+N quadrantis A Q.
+
+Si haec ratiocinia applicentur ad figuram New-
+tonianam ubi nodus N est in quadrante Q a, ex
+iis deprehendetur circulum Q A q a designare
+incrementum anguli inclinationis.
+
+Si nodus in quadrante a q versetur3 omnia
+eodem modo procedent ac in primo casu, mutatis
+solummodo litteris majusculis in minores, ideo-
+que etiam ostendetur circulum Q A q a immi-
+nutionem anguli inclinationis designare; et pari-
+ter ubi nodus erit in quadrante q A casus hic ad
+secundum referri poterit, minuitur ergo inclinatio
+dum nodus procedit ab A ad Q, tumque est
+

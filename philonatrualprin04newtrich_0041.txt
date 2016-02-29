@@ -1,0 +1,95 @@
+met Tanos] PRINCIPIA MATHEMATICA. 23
+
+minuit effectus omnes in aliquibus casibus, quantum auget in aliis3 et
+nodorum motus mediocres quaerimuS, neglectis istiusmodi minutiis, quae
+calculum nimis impeditum redderent.
+
+Designet jam P M arcum, quem Luna dato tempore quam minimo
+describit, et M L lineolam cujus dimidium Luna, impellente vi praefatzi
+3 Ι Τ, eodem tempore describere posset. (¹¹) J ungantur P L, M P, et
+producantur eae ad m et l, ubi secent planum eclipticae ; inque T m de-
+mittatur perpendiculum P H. Et quoniam recta M L parallela est plano
+eclipticae3 ideoque cum recta m l quae in plano illo jacet concurrere non
+potest, et tamen jacent hae rectae in plano communi L M P m l; parallelae
+erunt hae rectae, et propterea similia erunt triangula L M P, l 111 P. Jam
+cum M P m sit in plano orbiS, in quo Luna in loco P movebatur, incidet
+punctum m in lineam N n per orbis illius nodos N, n ductam. Et quo-
+
+vis obliqua Solis S P, S R in ipsam agere conci-
+piatur, quae in duas dividatur, unam parallelam
+lineae S T, secundum directiones P Y, R. X
+agentem, alteram huic perpendicularem secun-
+dum directiones P Ι, R 13 de effectu vis secun-
+dum directiones P Y, R X agentis in hoc
+problemate actum est3 directiones vero P Ι,
+R l sese mutuo compensant3 dividatur enim
+rursus vis P Ι, R I in duas vires, unam P i,
+
+R i secundum planum orbitae lunaris agentem
+ideoque nodorum positionem nou turbantem,
+alteram P p, R r ipsi perpendicularem; haec
+nodorum positionem, planique inclinationem
+afficiet3 sed cum de plani inclinatione hinc
+non agatur, manere plani inclinationem fln-
+gatur, itaque vis P p, R i dum admovet
+puncta P et R ad eclipticam, efficit ut nodis
+viciniores videantur seu ut nodi versus puncta
+illamoveri censeantur, ideoqueactio in punc-
+tum P efficit ut nodus N in consequentia
+feratur, et actio in punctum R efficit ut nodus
+n in antecedentia fertur, ideoque, Solis actio
+obliqua in punctum P motum retrogressivum
+nodi natum ex vi P Y parallela lineae S T tan-
+tum minuit quantum eadem actio obliqua in
+punctum R. anget eum motum retrogressivum
+natum ex vi R. X.
+
+· (¹⁸) ³* Et M L lineolam cujus dimidium Lum,
+mpeuenoe, oi 8 Ι T describeret tempore quo
+Luna arcum P M percurreret; assumit utique
+Newtonus, nt rei conceptus facilior fiat, actiones
+omnes vis δ 1 T quae exercitae fuerunt dum
+arcus P M percurritur simul et semel in loco Ρ
+noun-essa: eux, sieque motum Lunae ex P motoe,
+esse compositum ex velocitate acquisita secun-
+dum tangentem, et ex velocitate ultimo genita
+per„ actionem vis 3 1 Τ agentem tempore
+aequali illi quo describitur arcus P M, ita ut
+{aum sequatur diagonalem parallelogrammi cu·
+Ju- uuumlatus sit P M, alterum vero um
+et aqualelinese LM5 cum autem vis ὅ ΙΤ
+
+exiguo temporis intervallo sensibiliter non mute-
+tur, toto tempore quo describeretur lineola P M,
+ea vis pro uniformi adsumi potest, hinc via quae
+describitur per velocitatem uniformiter crescen-
+tem ab ea vi 5 Ι Τ genitam est dimidia ejus viae
+quae describeretur per ultimam velocitatem in
+fine temporis P M genitam, et uniformem ma-
+nentem toto tempore P M, quod eadem ratione
+
+ 
+
+probari potest ac probatum fuit de gravitatis
+actione n. 50. Lib. Ι.
+
+Quod si quis objiciat hinc fieri ut punctum L
+male repraesentet locum Lunae, et locum ejus
+veriorem fore in medio inter M et L, responde-
+mus solutionem hujus problematis ex ea posi-
+tione Lunae neutiquam pendere, haec enim solu-
+tio duabus constat partibus, priori statuitur ratio
+motus nodorum in quibusvis punctis P orbitae
+lunaris, et haec ratio eadem est sive ubique
+sumatur tota M L aut ubique ejus dimidium.
+dimidia enim sunt totis proportionalium in se-
+cunda solutionis parte determinatur quantitas
+motus nodorum in syzygiis ipsis, respectu motus
+Lunae in sua orbita, et in hac determinatione
+nihil deducitur ex magnitudine lincae L M, sed
+tota haec solutionis pars pendet ex proportione
+ipsius vis 3 1 Τ ad vim centripetam Lunae, unde
+nullus error memendus est in hoc calculo ex hac
+falsa suppositione Lunam in puncto L versari,
+cum in medio inter L et M collocanda fuisset.
+

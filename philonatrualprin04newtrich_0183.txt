@@ -1,0 +1,71 @@
+Lfflm Tssnrrms] PRINCIPIA MATHEMATICA.
+
+165
+
+his datis, calculo itidem arithmetico accurate institutO, loca cometae ad
+
+observationum tempora computavit, ut sequitur.
+
+ 
+
+est positio rectae T a, hoc est, cometae longitudo
+geocenfflca, sive locus cometae geocentricus ad
+eclipticam reductus. Deinde in triangulo rect-
+angulo A a T, dantur latera duo in partibus
+mediocris distantiae Telluris a Sole expressa.
+(158. et ex theoria Telluris). Quare innotescet
+angulus A T a, hoc est, cometae latitudo geo-
+centrica‚ itemque dabitur hypothenusa T A,
+distantia scilicet cometae a Terra. Ex his itaque
+patet quomodo ad data observati-onum tempora,
+instituto calculo, loca cometae possint computari·
+Clariss, Halleius iisdem usus principiis ad defi-
+niendos cometarum motus maximo labore tabu-
+las construxit. Harum tabularum normam vi-
+deat lector in ejusdem celeberrimi viri OpuscuIO
+quod inscribitur: Cometographiau seu Astronu-
+miae Cometicae Synopsis.
+
+160. Si cometae orbitas ellipticas describere et
+duas Kepleri leges observare ponantur, boc est,
+si temporum periodicorum quadrata sint ut cubi
+mediocrium distantiarum a Sole, et areae ellipti-
+cae radiis ad Solem ductis sint temporibus pro-
+portionales, facile determinabitur orbitae cometi-
+cae magnitude, omnesque motfis cometarum cir-
+cumstantiae definientur, quod elegantissime prae-
+stitit D. Bouguer in Monum. Paris. an. 17:33.
+clarissimi viri methodum hic adjungemus
+
+Ex datis tribus observationibus a se invicem
+parum distantibus, inveniatur cometae velocitas
+in aliquo orbitae suae loco, et exigua ejusdem
+orbitae portio determinetur. Quoniam tria ob-
+servationum tempora parum a se invicem distant,
+portio orbitae hoc temporis intervallo descripta
+considerari poterit tanquam linea recta vel ipsa-
+met tangens orbitae motu uniformi percursa,
+ideoque portio baec rectilinea orbitae et ipsa
+cometae velocitas inveniri poterunt per Lem. IV.
+et per ea quae huic Lemmati addidimus. Idem
+
+quoque obtinebitur duplici elegantissima m ethodo
+quae in Menum. Paris. loco citato legitur.
+
+His praemissis, sit S Sol, C c exigua orbitae
+cometicae portio ex tribus observationibus deter-
+minata. Quoniam nota est S C, distantia scili-
+cet comotae a Sole, atque etiam innotescit angu-
+lus S C D, dabitur perpendicularis S D, hujus
+anguli S C D sinus, sumpto S C, pro radio.
+Dicatur S C = a, S D = b, designet e, spatio-
+lum C c, tempusculo f percurwrn, sitque
+
+ 
+
+x = A B, seu axi principali ellipseos quam
+cometa circa Solem in umbilico S, positum inte·
+gro tempore periodico t, describit. Ut determi-
+nentur quantitates x et t, conferre oportet motum
+cometae cum motu cognito planetae alicujus. Sit
+

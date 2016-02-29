@@ -1,0 +1,62 @@
+Lmen Tum—ms] PRINCIPIA MATHEMATICA. 153
+
+VII. ut oportet per Lem. VIIL: et B E per Lem. XI. sit pars rectae
+B S vel Β ξ in plano eclipticae arcui A Β C et chordae A E C interjectam
+
+ἕψω
+
+ 
+
+et M P (per Corol. Lem. X.) longitudo sit chordae arcuS, quem cometa
+in orbe proprio inter observationem primam ac tertiam describere debet,
+
+145. Lemma· sit angulus rectilineus
+A QB datumque punctum S; item sit
+curva M Ο N, talis ut per S ducta
+quavis recta S E sit B E, anguli la-
+teribus intercepta, aequalis rectae SO,
+erit curva M Ο N, hyperbola. Nam
+ducatur S L, ad B Q, parallela, occurrens-
+que ipsi A Q in L; in recta Q L pro-
+ducta capiatur L Z == L Q, agaturque
+Z D ad Q B paranda, itemque ducatur
+O Κ parallelaad QZ: ob S O=B 1}
+
+ 
+
+cumsitSHzHO=SL2LE=SL
+—SHzLE—HO=LH:LQ,
+=LH: HK, erit SH><HK=
+HO><LH‚11ocest.SL><HK-
+LH><HK=KO><LH—
+HKXLH. UndeeritSLXHK
+=KO><LH,velZL>< LS=
+
+m
+σο
+
+Ζ Κ >< Κ 0, ide6que curva M O N, s
+hyperbola cujus asymptoti Z A, Z S
+(Lem. Ι. de com).
+
+144. Corol. Hinc per datum punctum S,
+recta linea duci potest ita ut pars rectae B E,
+lateribus anguli dati E Q B, intercepta, s
+aequalis sit rectae datae. Nam descripta »hyper-
+bola M Ο Ν, centro S, intervallo datam rectam
+aequante, describatur circulus hyperbolam inter..
+secans in Ο, et producatur S Ο Ε, erit B E
+aequalis rectae datae S O (143)-
+
+145. Newtonus in arithmetica universali, prae-.
+cedentis Corollarii constructionem quae fit per
+conchoidem more veterum, anteponendam esse
+ait constructioni quae sectiones conicas adhibet.
+Quare veterum constructionem utpote simplicio-
+rem hic quoque subjungemus. Sic autem de-
+scribitur conchois. Agatur nempe recta Q B,
+ad quam erigatur normalis A H, deinde ex
+puncto C, tanquam polo ita ducantur rectae
+
+ 
+

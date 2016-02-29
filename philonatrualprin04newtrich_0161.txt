@@ -1,0 +1,122 @@
+met TERTIUS] PRINCIPIA MATHEMATICA.
+
+143
+
+(f) LEMMA IX.
+
+Rectae I μ et μ Μ et longitudo Α I q
+
+ 
+
+aequantur inter se.
+4 S μ
+
+Nam 4· S μ est latus rectum parabolae pertinens ad verticem μ.
+
+ 
+
+'o
+
+LEMMA X.
+
+Si producatur S μ ad N et P, ut μ Ν sit pars tertia ipsius μ Ι, et S P sit
+ad S N ut S N ad S μ. Cometa‚ quo tempore describit arcum A μ C, si
+
+RF=BRXNR
+rN÷BR'
+VBR2-1-RF2'. DeindeBF=BR=
+
+ide6que datur B F =
+
+ 
+
+ 
+
+rF: FN, et inderF=PAEff><ffOE, atque
+rectatotarBZ-E' FXFNq-MW
+
+ 
+
+Ducatur recta A u,BpeIrtpendicularis ad A B, erit
+ob triangulorum A u F, R B F, similitudinem
+AF: Au = RF2 RB, ide6que Au=
+
+R B χ Α F . ι
+—ITF ,2 et hinc prorsus ut supra habetur
+
+A e = g ξ ξ-Α-ΠἿ Ex hactenus dictis patet
+
+ 
+
+ 
+
+A u
+dari rectas A E, A e, per x, y, et quantitates
+constantes.· Jam loco A b, B b, A u, substitutis
+eorum valoribus analyticis, fit A e, paul&
+major quixm A E, et paulo minor quam
+(y3412f2y)4lx4÷16f2x2 ι
+4f(x³÷12f2x)· “ ““
+
+Quare recta B n, secabit chordam A C, in e,
+
+in ratione temporum magis accurate quam recta
+
+ξ 1I3de1n scholium facilius demonstrari potest hoc
+A b >< Α ιι = A b .-
+A b÷A u
+
+) erit A e semper minor
+
+ 
+
+Quoniam A e =
+
+ 
+
+modo.
+
+Ab>< Ab
+mh (ex dem.
+
+quam A b. Jam ver& facta analogia x 3 -Ι-
+
+12f2x : y3÷ 12f²y=24³2243÷52232
+(5³412f2y) Vx4÷ 16f2x2 ,
+4ῗγκ3ψ12ἓῑκ —'s¹Ae
+aequalis foret huic quarto termino, haberetur ratio
+temporum accurate (Prop. I. Lib. 1.). Sed
+
+quartus ille terminus major est recta A e; nam
+termInus ille major est quam chorda A B, est
+
+enim AB=VQQ=4JX³†121‘½ ><
+
+ 
+
+V y 4 ’,- ¹6 f 2 5 2 haec autem quantitas minor
+
+,ΣῆῗΤᾟ-ιῖῖῆ
+
+(Υ3-Ῑ· ¹2f²y)V¹4 ''i-1533„ Sed
+4 f μ x ³¹¹4 ''1'''2''f2 x
+(per constr.) ἰιὲ ducitur μ n, ut recta n B semper
+secet chordam A C in puncto e, quod proximius
+est puncto C quitm punctum E; quare cum recta
+A e semper minor sit verti, major tamen quim
+A E, haec magis quium illa ad justum valorem
+accedet, ac proinde recta n Β, secat chordam
+A C, in ratione temporum magis accurate quam
+recta ξ Β. Res eodem modo demonstratur, ubi-
+
+cumque sumatur punctum A.
+
+ 
+
+est qudm
+
+(f) * Lemma IX. (Patet per num. 1:39
+Lib. huj. et Theor- Ι. et 11. de parab. Lib. 1.).
+
+Ks
+

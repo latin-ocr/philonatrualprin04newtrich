@@ -1,0 +1,192 @@
+166
+
+q axis principalis ellipseos quam planeta descri-
+bit, n tempus periodicum‚ dicaturque p periphe-
+ria circuli cujus diameter est q. Quoniam axis
+principalis ellipseos est summa maximae et mini-
+mae distantiae planetae a Sole, erit distantia me-
+diocris planetae a Sole aequalis dimidio axi princi-
+
+pali, hoc est {- Χ est distantia mediocris cometae,
+
+et {2- q distantia mediocris planetae. Jam vero
+
+fiat (per leg. 1. Kepleri.) ἐ- q³: n²= {34³2 t ²
+
+hinc fit t=,¹-¹—x γ —x-. Invenienda superest al-
+
+tera expressi? tempgris periodici t. Quoniam
+
+C c, est portio orbitae admodum exigua, sector
+CS c, considerari poterit instar trianguli evanes-
+
+centis cujus area-{- SD >< Οοε-ἑ-ὺε.
+
+Quare, per alteram Kepleri regulam, dicatur
+ὲ b e est ad f, ut area tota ellipseos A O B 1,
+a} integrum tempus periodicum t, unde habetur
+
+ἑ b e >< A C B Ι. Nunc ut obtineatur
+
+area A C B I, ex puncto C, ad alterum umbili-
+cum E, agatur recta C F=A B — S C=x — a
+(Theor. 111. de ellipsi). Ex eodem umbilico F,
+ad tangentem C c productam in E. demittatur
+perpendicularis F E, sitque S G parallela rectae
+D E, triangula rectangula S C D, F C E Simi·
+lia sunt, ob angulos S C D, F C E» aequales
+(Theor. IV. de ellips.) ide6que SC(a) z SD(b)=
+b x — a b
+
+t=
+
+ 
+
+ 
+
+Fc(x—a)2 FE= a ,acproindeFG‚
+seuFE—SD=b¹—32³b.
+
+ 
+
+Deinde· (ob eorumdem triangulorum ‘simili- ,
+
+ 
+
+tudinem> s c (a) : c„‚D (ν a ² - b ²)
+=FC(x-a):CE=¹‘;³4sa2-b2‚
+ethinc DE, vel SG, seu CE÷CD=
+
+X—-a
+
+ 
+
+ 
+
+ 
+
+ 
+
+bx—
+a
+
+sp— 4Ιῖῖῑιι-ι,-,ῑι-τιῑῖ)--ι-Τ,ῑ-ΞΠ,-
+.. maz ..-
+
+⁴la2x2— 4ab²x -{- 4a²b²
+a 2
+
+tantia S anel F H umbilici alterutrius a centro
+
+- ι- ν πεῖ-ι,-
+
+..- -———-—-—-——-·-—-—2 .
+
+(ob2triangu1um S 1 {1 rectangulum in H,
+
+et per Theor. ΙΙΙ. de ellipsi) erit I H =
+
+νέ- x 2— a2x244ab22x-4a2b2 b
+4
+
+4a² ..g-{Vax-az
+ae proinde axis minor I K = -a— μ a x .... a 2,
+
+2ab
+
+Sed F G = (ex dem), quare est
+
+ 
+
+; ideoque dis·
+
+.Jam
+
+ 
+
+2b
+
+ 
+
+· minorIKx=52ben4lf2p
+
+et tempus periodicum = f· 3 Ρ ³ n >< ’ἓ
+
+PHILOSOPHIAE NATURALIS [DE MUND. SYST.
+
+etb factum ex axe majori in minorem =
+2 x
+
+ἱατῗςυίί orbitae ellipticae circumscripti, et praeterea
+(249. Lib.I.) area rectanguli hujus est ad aream
+ellipseos ut quadratum axis A B, ad aream circuli
+huic quadrato inscripti; quare q 2 z {— q p =
+
+2bx
+a*-
+
+Μ m Sed est factum illud area rec-
+
+ 
+
+b‘p Χ
+2 a q
+4! a Χ - a 2. Tandem in ultima expressione
+
+temporis periodici loco areae A C B Ι, substi-
+tuatur illius valor modo inventus, fiett=fffi
+
+4! Ξ-Χῖ-ἷῖ, collatisque duobus ipsius t valori-
+
+bus, ὴαὺθὺίῐυτ-Ῑ-Ἱέ-μὲτε f-p—fft V 81-222
+
+aeq
+
+ 
+
+ 
+
+Max—a2zACBI=
+
+ 
+
+ 
+
+ 
+
+, , ⁸ . a f ² ι) ² q
+et roaucta aequauone Χ = f 2
+
+a
+
+,ja-{ff Ξ. Hinc patet determi- j
+f²p²q—ae2n22 ⁷:
+nari posse omnia quae ad cometarum motus per· ᾗ
+
+ωηιθὲἷ.. Si formulae mod& inventae quantitatibus
+
+finitis et positivis exprimantur, orbita A C B·1 ψ
+erit elliptica, ideoque cometa reditum habebit. 2
+
+Quia vero circulus est species quaedam ellipsis,
+cometa circulum quoque poterit describere, m ν ’
+eo autem casu aequales erunt distantiae S A, j
+
+S C, S B, axisque A B duplus fiet distantiae ’
+
+δαειερτοίιιάὲὲπρξὲἲζὲαῃα Ἴ
+Β.) μ -ἕῖ, valor seilicet spatioli C c J„
+a cometa telinpore f percursi. Si e a sit cometae
+
+hinc e =
+
+p2q-ae2n2'
+J am si in expressionibus axis minoris et temporis g
+periodici substituatur valor ipsius x, eri't axis Ῐ
+
+²q-ae2n2
+
+=2a,et ⁴
+
+ 
+

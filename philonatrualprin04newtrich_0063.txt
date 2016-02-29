@@ -1,0 +1,117 @@
+LIBER Temos] PRINCIPIA MATHEMATICA. 45
+
+nodi respectu fixarum inter sui ipsius conjunctiones cum Sole3 et hic
+motus de Solis motu annuo graduum 360 subductus, relinquit 341-81. 40².
+54²². 7²⁰. motum Solis inter easdem conjunctiones. Iste autem motus est
+ad motum annuum 3608& ut nodi motus jam inventus 183219'. 5'‘. 53²⁰.
+ad ipsius motum annuum, qui propterea elit 198‘.18'.1''.23'‘'. Hic cst
+mutua* mechus nodorum in anno sidereo. (¹²) Idem per tabulas astrono-
+micas est 193‘. 21². 21²². 50'''. Differentia minor est parte trecentesima
+motfis totius, et ab orbis lunaris eccentricitate et inclinatione ad planum
+eclipticae oriri videtur. Per eccentricitatem orbis motus nodorum nimis
+acceleratur, et per ejus inclinationem vicissim retardatur aliquantulum, et
+
+ad justam velocitatem reducitur.
+
+PROPOSITIO XXXIII. PROBLEMA XIV.
+
+Invenire motum verum nodorum Lunae.
+
+In tempore quod est ut area N T A — N d Z, motus iste est ut area
+
+N A e, et inde datur.
+
+(¹¹) ³¹² Idem per tabulas astronomicas. Cassinus
+ex antiquis observationibus nodorum motum de-
+terminat in anno communi 190·19‘.45''.quibus
+additis 49¹¹ . pro motu nodi per 6¹¹. 10'. 54⁰ .
+quibus annus sidereus excedit annum commu-
+nem, motus ergo nodorum in auno sidereo est
+190. 20'. 34¹2, ita ut exigua duntaxat quantitate
+differat motus nodorum per calculum inventus,
+ab eo qui ex observationibus deducitur, et is dis-
+sensus est adeo parvuS, ut neutiquam turbet
+argumentum quo confirmetur Newtoniana theo-
+ria ex calculo motus nodorum cum observationi-
+bus collato; imo dissensus istius causas ex orbis
+Lunae excentricitate et inclinatione fluere indicat
+Newtonus, sed haec hujus non sunt loci.
+
+(¹) 117. ⁷* Veram ob nimiam calculi difficul-
+tatem. Satis liquet maximam futuram calculi
+difficultatem ex ipsis seriebus in notis 115. et
+116. adhibitis, quae cum parum convergant, re-
+gressum non tantum difficilem, sed etiam parum
+tutum habent; hinc alia artificia commodiora
+adhibet Newtonus, quae ut intelligantur, duas
+hypotheses assumere liceat quibus pedetentim ad
+ipsam constructionem N ewtonianam deveniemus.
+
+Prior ergo hypothesis ea sit quam in Prop.
+XXXII. fingit N ewtonus, singulis horis retrahi
+nodum in locum suum priorem, ut non obstante
+motu suo proprio datum servet situm ad fixas;
+interea vero Solem progredi a nodo. ea quippe
+in hypothesi, ex Prop. XXXII. tota area circuli
+repraesentat totum nodorum motum integro anno
+
+(X) Verum ob nimiam'calculi difficultatem, praestat
+
+bunt motum verum eo ipso tempore, ideoque
+triangulum A T Z repraesentabit differentiam
+motus medii a motu vero, quae debebit subtrahi
+a motu medio ut verus motus habeatur in primo
+quadrante, et tertio ut ex ipsa figura liquet; addi
+autem in secundo et quarto: cum itaque tota
+area circuli sive factum totIus peripheriae in ᾗ r,
+designet totum motum nodorum durante anno
+sidereo, repraesentabit A T Z eam aequationem,
+
+quaeaequatiocum AZsityetTZ=4l rr-yy
+
+est ᾗ y 4! ι r— y y: dividatur ergo tam circuli
+valor quam areae A T Z valor per- 1r, erit peri·
+
+ 
+
+ 
+
+ 
+
+pheria tota ad QE———H ut totus motus no-
+
+di anno sidereo ad aequationem quaesitam, sive
+primum consequentem duplicando et secundi
+antecedentis dimidium sumendo, quod propor—
+tionem non turbat, erit peripheria tota ad
+
+“DQ-¹3:22⁷, ut motus semestris nodi ad εε-
+
+ 
+
+quationem quaesitam: sed ex principiis trigono-
+metricis, sinus ejus arcus qui for-et duplus arcus
+
+2 Υ ν r r - Υ y;
+r
+
+ergo si describatur circulus radio quocumque
+
+C t>B, et sumatur arcus B F duplus, arcus N A,
+
+hoc est duplus distantiae Solis a nodo (quae dis-
+
+tantia per motus medios Solis et nodi haberi
+
+potest) erit peripheria tota ad F H sinum ejus
+
+ 
+
+N A cujus sinus est y foret
+
+sidereo, ideoque sectores N A T repraesentabunt arcus B F ut motus semestris nodi ad aequatio·
+motum medium eo tempore quo Sol discedit a nem quaesitam3 ideo producatur D C B in A,
+nodo arcu N A et segmenta N A Z repraesenta· ita ut radius A D sit ad radium C D ut periphe-
+
+De
+

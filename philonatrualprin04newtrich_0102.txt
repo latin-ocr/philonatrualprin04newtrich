@@ -1,0 +1,217 @@
+84
+
+orbitae lunaris linea T m, et ex M et m ducan-
+tur perpendiculares M H, m H in lineam no·
+dorum N n productam· ⁷
+
+Radius T P dicatur r ut prius, distantiae
+Lunae a quadratura sinus P K dicatur y, cosinus
+T K dicatur z; distantiae nodorum a syzygia
+sinus N Q sit n, cosinus T Q sit m3 denique
+sinus inclinationis orbitae lunaris ad eclipticam
+dicatur l, existente r radio, et ea inclinatio con-
+stans supponatur, quae secundum Keplerum‚
+Dela Hstium, διο. est ubi maxima, graduum
+5· 19'. 30⁶.
+
+Ex demonstratis est T M = 3 y; et propter
+similitudinem triangulorum N T Q Μ Τ Η,
+est NT(r):M T (Sy):·. NQ(n):MH
+
+(13 y n), et quia angulus M H m est angulus
+
+r
+inclinationis orbitae lunaris ad ec11pticam, ut
+
+rzlzleI H(3yn):Mm=5ynl·de-
+
+ 
+
+ 
+
+ 
+
+r r2'
+
+niquemt est T M (3 y) ad M m (3 y η l) sic
+
+r2
+
+ 
+
+nl
+
+est r ad sinum anguli M T m qui erit ergo Τ,
+
+- 2 2
+cujusque cosinus erit μ r 2 - ¹.¹.-¹- sive r —-
+n 2 l 2
+2 r 3 ⁰
+Jam autem tota vis T M est ad eam ejus par-
+tem quae agit ‘secundum planum orbitae lunaris
+
+ 
+
+ 
+
+ut radius ad cosinum anguli M T m sive ut r
+n 2 l 2
+2 r 3
+tur partes in quas resolvitur ea vis, ergo cum
+portio totius vis T M secundum directionem
+radii exercita (si planum orbitae lunaris et eclipti-
+
+adr-—
+
+ 
+
+et in eadem proportione minuun-
+
+5yy
+
+ 
+
+coe idem fuissent) sit-{- Χ r
+
+monstratis 3 pars residua propter inclinationem
+'— 2 r 5
+
+ex superius de-
+
+plani erit {- >< r
+
+ 
+
+ 
+
+ 
+
+3 vis au-
+
+tem L M quae est έ- r et negative sumitur, nul-
+
+lam diminutionem patitur ex hac inclinat10ne‚ ,
+
+quippe P T est in ipsa orbita lunari, ide6que
+ejus planum quomodocumque situm non dimo-⁴
+vct; hinc crgo pers actionis Solis quae Lunam
+
+PHILOSOPHIAE NATURALIS [DE Mum). SYs'r.
+
+secundum radium ejus orbitae trahit, sublata ea
+parte quae consumitur in plano orbitae dimovendo
+
+ 
+
+est} ><(3{y-r—⁵}—y;;²—321-2).
+‘'PROBL. 11.
+
+Dato sinu anguli quem faciunt lineae nodorum
+et syzygiarum, invenire quantitatem graduum
+quibus tardatur Luna per actionem Solis secun-
+dum directionem radii orbitae lunaris exercitam, -
+semota ea ejus actionis parte quae in dimovendo
+plano orbitae lunaris exercetur.
+
+Elementum retardationis Lunae (Probl. Ι.
+
+calculi prioris) inventum erat 2 Y d u
+
+ 
+
+ponatur ejus valor Probl. praecedente inventus
+F 5 y y 3 y 2 n ² l 2
+’Ξ- Χ(
+
+——r-——---3
+
+r 2 r 5 si, quia jam
+
+, . F :3 y y
+actum est de retardatione per vim -Ξ- Χ( r
+
+ἷ- r) producta, adhiqeatur solummodo quantitas
+2 2
+’Ξ >< ”“ 5 y 2 ἲ ⁵ l
+
+retardatione fit acceleratio) hinc, accelerationis
+2 F d u
+V a
+
+‚ cuj'us integralis pro quadrante
+
+F n 2 l 2
+V a r 5 Δ
+catum pro revolutione integra fit
+
+3 ἔδεαι Ξ Ξ c. Unde liquet quod cum
+
+ 
+
+ 
+
+(quae cum negativa sit ex
+
+ex hac causa pendentis elementum est
+
+ 
+
+><3y²n2l2
+
+ 
+
+.21·S
+5r²c
+
+ 
+
+ 
+
+est et quadrupli-
+
+ 
+
+giarum‚ quo casu n evanescit, tunc
+motus Lunae est ipse ille qui praece-
+dentibus theoriis fuit inventus, quan-
+
+syzygiarum, tuncv-est n = r, et est
+
+2F12c .
+2 var quae tum max1-
+
+ 
+
+acceleratio
+
+ma est.
+
+PROBL. ΙΙΙ.
+
+Posito Solem in mediocrl sua distantia versari,
+et lineam nodorum omnes possibiles positiones
+cum linea syzygiarum successive obtinere, inve-
+nire aequationem motfis medii Luna* pendentem
+ex vario situ nodorum Lunae.
+
+Primo, ut inveniatur acceleratio mediocris
+quae ex inclinatione plani lunaris oritur, fingatur
+Solem immotum stare, et lineam nodorum ab eo
+recedere in antecedentia‘(nodorum autem motum
+
+γ’ proprium hic omittere licet, cum in Problemate
+
+praecedente omissus sit, sic enim utraque omissio
+sese compensant.) 4·-
+
+Moveatur nodus ex N per arcum d u, accele-
+ratio Lunae quae fiet dum describitur d u erit ad
+accelerationem toto mense factam, ut tempus quo
+nodus describit arcum d u ad totum mensem,
+
+linea nodorum est in ipsa linea syzy- s ᾖ,
+
+do vero linea nodomm -est in linea Δ),
+
+ 
+

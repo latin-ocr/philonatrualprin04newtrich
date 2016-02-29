@@ -1,0 +1,55 @@
+52 PHILOSOPHIAE NATURALIS [DE MUND. Srs'r.
+
+dunt3 ita ut angulus inter rectam quiescentem N n et revolventem T A,
+semper fiat aequalis distantiae locorum Solis et nodi. Jam si recta
+quaevis T K dividatur in partes T S et S K quae sint ut motus Solis
+horarius medius ad motum horarium mediocrem nodi in quadraturis, et
+ponatur recta T H media propor-
+tionalis inter partem T S et totam
+T K, haec recta inter reliquas pro-
+portionaliS erit motui medio Solis a
+nodo.
+
+‘⁶ Describatur enim circulus
+N K n M centro T et radio T K,
+eodemque centro et semi-axibus
+T H et T N describatur ellipsis
+N H n L, et in tempore quo Sol a
+nodo recedit per arcum N a, si duca-
+tur recta T b a, area sectoris N T a
+
+ 
+
+exponet summam motuum nodi et
+
+Solis in eodem tempore. Sit igitur arcus a A quam minimus quem recta
+T b a praefata lege revolvens in data temporis particula uniformiter¹ de-
+scribit, et sector quam minimus T A a erit ut summa velocitatum' qua
+Sol et nodus tum temporis seorsim feruntur. Solis autem velocitas fere
+uniformis est, utpote cujus parva inaequalitas vix ullam inducit in medio
+nodorum motu varietatem. Altera pars hujus summae, nempe velocitas
+nodi in mediocri sua quantitate augetur in recessu a syzygiis in duplicata
+ratione sinus distantiae ejus a Sole3 per Corol. Prop. XXXI. Lib. ‘III.
+
+Princip. et cum maxima est in quadraturis ad Solem in Κ, (¹³) eamdem
+
+rationem obtinet ad Solis velocitatem ac ea quam habet S K ad T S hoc ·
+
+est (⁰) ut (differentia quadratorum ex T K et T H vel) (d) rectangulum
+K H M ad T H quadratum. Sed ellipsis N B H dividit sectorem A T a
+
+summae harum duarum velocitatem exponentem, in duas partes A B b a
+et B -T b ipsis velocitatibus proportIOnales. Producatur enim B T ad
+circulum in β, et a puncto B demittatur ad axem majorem perpendicularis
+B G, quae utrinque producta occurrat circulo in punctis F et f, (ὃ) et
+
+(Β) ⁸ Eamdem rationem obtinet per construc— (d) ⁴* Ut differentia quadratorum ex* T K et
+tionem. T Η vel rectangulum K H M. Est enim T K 2
+
+(⁰) '¹ Ut defferentia quadratorum ex TI( et -— T H 2= K H >< Η Μ, per Prop. V.
+ΤΗ - ad T H quadratum. Est ex construc- Lib. ΙΙ. Elem. Euclidis.
+tione T K ad T H ut T H ad T S, est ergo (θ) ⁴⁶ Et quoniam spatium A B b α, &c. Sec-
+T K² adTH2 utTKadT Set dividendo torTAa estadsectoremTBb ut A T2 ad
+T Κ 2 — T H ² ad T H ² ut T K — T S sive B T ², (quia propter parvitatem anguli A T a,
+S K ad T S. non differt sensibiliter sector B T b ab eo qui
+

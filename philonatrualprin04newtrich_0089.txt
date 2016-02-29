@@ -1,0 +1,183 @@
+LIBER Tannus] PRINCIPIA MATHEMATICA.
+
+hinc E = .0804896 et aequatio fit ,08084896
+= 1.08084896 Χ -1- ΞΞΞΞΞ X 3, loco X sub-
+
+stituatur ‚0744 -1- R et aequatio evadit .080848 96
+= ,08082129 ÷ l.09726905 R, unde habetur
+.00002767 = 1.09726905 R, hinc obtinetur R
+= ‚0000252 et M = .0744252 A.
+
+ 
+
+“ THEOR. VII.
+
+Si mutetur' utcumque Solis a Terra distantia,
+ita ut loco a dicatur X, dico quod, caeteris ma-
+nentibus, retardatio Lunae durante tempore
+synodico, cum Terra distabit a Sole quantitate
+
+a 3 Μ 2 435.92 c
+
+X³ A 2 458.92 ‘
+Nam ex Problemate Ι. retardatio Lunae
+
+F r e 455.92
+
+V a χ 458.92
+distantia ΙοὲιοΡ a ponatur X, et praeterea loco F
+aX 2 ¹
+
+quadrata distantiarum, hac ergo substitutione
+a2 Frc 43592·
+
+W 458. 92 '
+
+x F . a M ² .
+tum vero loco —- substituatur et habebz-
+
+V r A 2
+tur expressio Theorematis hujusce.
+
+X erit
+
+ 
+
+ 
+
+inventa fuerat sed in alia a Sole
+
+ 
+
+ 
+
+ponatur decrescit enim vis Solis F ut
+
+ 
+
+ 
+
+facta retardatio Lunae sit
+
+ 
+
+LEMMA 11.
+
+Foco F. axe majore N F n qui dicatur 2 a
+describatur ellipsis, sit e ejus excentricitas eaque
+parva sit, axis minor sit 2 b, erit b ² =a²— e ²3
+ex foco ut centro radio a describatur circulus, et
+ducantur a foco lineae secantes circulum in P et
+ellipsim in Π, linea F Π dicatur X, sinus anguli
+A F P sit y, cosinus z3 dico quod linea x erit
+
+b ² a
+a ² '4'- e z‘
+
+Ducatur ex 11, rt Η perpendicularis ad axem,
+et propter triangulorum F P E, F Π Η simili-
+tudinem erit F P ad F Π ut PE ad Π Η et ut
+
+FE ad FH, hoc esta2x=y:{-x=z:
+
+Ζ
+
+ἶ x : sit f alter focus ellipseos, ex eo ducatur
+
+lineas Π, ex natura ellipseos ests H=2a—x
+sedfn²=r1 H²÷fH2eth=
+v {a etfH=FH-Ffve1Ff-FH
+velFf÷FH‚ et>esth=22e et FH=
+{xhinan2-1-fn2=·}3 1²4· 2-{12
+
+*4ez
+4
+
+ 
+
+ 
+
+2 2
+-ξ- x 2, est autem Ξῑκ-ὶ-ΞἿ x 2 = x ², ergo
+
+- 4ez
+
+-ι- T¹44e²=4 a2-4ax, etdividendo
+
+71
+“t
+per 4 et transponendo est a x ξ.- aaz x = a2 —
+2 b ² a
+e =b23 undehabeturx= a 2 ,ᾧ e z· (QG-0·
+
+ 
+
+b²
+
+ 
+
+C'or. Hic valor x in series resolutus est -Ξ-
+2 2 3 3
+Χ (1 ζεῖ-Ξ -Ι- Ζ-ὃὲ- u ea} ‚ &c.) sumptis
+
+signis superioribus quando E cadit in eadem
+parte ac centrum, et sumptis signis inferioribus
+quando E cadit in parte in qua non est centrum.
+
+Cor. 2· Si fractio 3- >< a 2 ἷξε z
+
+x b 2 ad digni-
+
+ 
+
+tates superiores evehatur, termini in quibus e
+plurium dimensionum poterunt omitti, propter
+suppositionem excentricitatem exiguam esse, et
+quidem si agatur de Solis excentricitate, ea non
+
+ 
+
+κ- 3>
+
+assurgit ad duas centesimas radii, et excentricitas
+Lunae non assurgit ad septem centesimas.
+
+Cor. 3. Hinc tardatio Lunae quae ex Solis
+actione pendet, fiet durante tempore synodico S,
+433.92c M2N a²ssez3
+
+2438.92 A 2 Α b ⁶
+semi-axe majore orbitae Solis, e pro ejus excen-
+tricitate, et b pro axe minore.
+
+ 
+
+, positis a pro
+
+ 
+
+ 
+
+PROBL. ΙΙΙ.
+
+Determinare quantitatem graduum quibus
+tardatur Luna per actionem Solis dum Terra
+describit circa Solem arcum quamminimum da-
+tum.
+
+Sit ut in praecedenti Lemmate N Π n ellipsis
+quam Terra describit, sit Sol in foco F, ducatur
+ut prius linea F P Π et ei quam proxima F p τ
+quae secet in circulo C A D arcum P p, et quae-
+ratur quantitas graduum qua tardatur Luna per
+Solis actionem, dum Terra videretur e Sole,
+descripsisse arcum P p.
+
+Sit ut prius A tempus annuum, a ellipseos
+semi-axis major, k circumferentia eo radio
+descripta ex foco F, sit e excenuicitas, b ε
+
+4! a ² — e 2 semi-axis minor, area semi-cii·culi
+
+ 
+

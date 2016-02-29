@@ -1,0 +1,181 @@
+50
+
+PHILOSOPHIAE NATURALIS [DE Mum). SYST.
+
+aequatio semestris motus nodorum. (Υ) Est et aequatio menstrua, sed quae
+
+ad inventionem latitudinis Lunae minime necessaria est.
+
+Nam cum vari-
+
+atio inclinationis orbis lunaris ad planum eclipticae duplici inaequalitati
+obnoxia sit, alteri semestri, alteri autem menstruae 3 inaequalitas et aequatio
+
+menstrua nodorum ita se mutuo contemperant et corrigunt, ut ambae in
+determinanda latitudine Lunae negligi possunt.
+
+Corol. Ex hac et praecedente Propositione (Ζ) liquet quod nodi in
+syzygiis suis quiescunt, in quadraturis autem regrediuntur motu horario
+
+2 y 2
+r
+r, quoniam idem valor in numeratore ac denomi-
+natore occurrit, et ea quantitas non est magna
+respectu totius A H, manebit idem fractionis
+valor; sed a -Ι- 3 r = A D ideoque fractio
+
+2 b r y 2
+a r ÷ i
+
+'a r 2 ἕῖὶτΥ-,Ι y estproxime aequalisfractioni
+A D
+A H'
+
+Est vero accurate
+
+sensibili, quia si minus sit aut majus quam
+
+ 
+
+ 
+
+ 
+
+ 
+
+4TAZ
+
+1⁸
+
+angulum T A Z = Α-Ζ-ξ--Τ-Ζ, est A Z = y,
+
+4 TAZ—ey Vrr—yy·
+r - r ²
+sed, ex principiis trigonometricis, sinus arcus
+
+ 
+
+= F H, nam tri-
+
+ 
+
+ 
+
+ 
+
+ 
+
+TZ = 4! r r-—y y, ergo
+
+ 
+
+dupli ejus cujus sinus est y, est r
+
+ergo sinus arcus B F qui duplus est arcus A N
+
+Q, sed sinus
+
+arcus B F est F H ex constructione, ideoque F H
+—eyffrr-yy-——4TAZ
+
+“““’ r r
+
+ar2÷ bry2
+
+ 
+
+cujus sinus est y, est
+
+ 
+
+, et quantitas
+
+ 
+
+ 
+
+ 
+
+A DXFH= 4lrr—-yy>< Q·
+AH ar2-1-by2 r
+
+ 
+
+Quibus expositis, caetera, nempe angulum
+D A G pro aequatione sumi posse, lineas A B ad
+A C sumendas esse ut motus medius nodi ad
+semissem ejus motus in quadraturis, caetera,
+inquam, patent ut in hypothesi secunda.
+
+(y) ²* Est et aequatio menstrua, ex iis quae in
+Prop. XXX. et XXXI. dicta sunt, liquet quod
+dnm Luna motu menstruo circa Terram fertur,
+nodi satis inaequaliter feruntur3 hinc si locus
+nodorum ex eorum motu medio aestimatur, locus
+ille medius a vero nonnihil differret, idque quod
+esset corrigendum secundum diversam Lunae
+ipsius distantiam a nodo, aequatio menstrua me-
+rito diceretur, sed cum totus motus menstruus
+Lunae non sit 28‘. et compensetur latitudinis
+error qui ex falsa nodi positione oriretur per in-
+clinationis Lunae inaequalitateS, operae pretium
+non duxit Newtonus hanc aequationem tradere,
+suo loco autem de ea compensatione agetur.
+
+ΞΉΙΠ-Π, -
+
+(²) '³¹² Liquet quod nodi in syzygiis quiescunt.
+Etenim motus nodorum est ut area A Z Y a
+dempta area e Z Y, ubi vero nodi sunt in syzy-
+giis ideoque ubi punctum A incidit in N, evan-
+escit linea A Z ac per consequens area A Z Y a
+— e Z Y nullus itaque est nodorum motus. In
+quadraturis autem regrediuntur motu horario
+16'‘. 19⁰¹. 261'. Si nodi distent 903². a Sole,
+A Z fit aequalis A T, et Z Y == A a, ideoque
+area A Z Y a quae est parallelogrammum ejus-
+dem altitudinis ac baseos ad triangulum A T a
+est ejus duplum, cumque e Z sit ad A Z ut
+A Z q ad 9.Οὸ27646 A T q -1- A Z q sitque
+
+A Z = A T in hoc casu} siteZ= A Τ
+
+10.0827646
+A T Χ A a sive duplum tri-
+
+ 
+
+etareanJ'est 100807646
+
+anguli A T a divisum per 10.0827646 hinc
+motus nodi qui exprimitur per aream A Z Y a —
+
+ 
+
+ 
+
+e Z Y, est in hoc casu ad aream A T a ut 2 —·
+2
+
+10.0827646
+motum annuum designat 193‘. 49'. 3⁰. 55'''.
+Triangulus A T a motum horarium repraesentans
+numerum graduum designabit qui obtineretur
+dividendod 9⁸¹. 49¹. 3‘''. 55¹¹‘. per numerum ho.
+rarum in anno sidereo comprehensarum, et ea
+divisione facta numerus graduum quem reprae-
+sentat triangulus A T a, invenietur 8''. 8'“. 18¹8
+
+18.0827 646
+
+51v. si itaque fiat 1. ad 15:683-7ff ita iste nu-
+
+merus ad quartum 8''. 18“'. 81'. 51'. invenietur
+16¹¹, 19:¹2 26'W. qui erit motus horarius quo nodi
+
+regrediuntur in quadraturis.
+
+ 
+
+ad l, sed quia tota area N A n N
+

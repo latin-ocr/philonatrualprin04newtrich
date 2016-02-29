@@ -1,0 +1,83 @@
+:vg-vur- ...v
+
+LIBER TERTIUS] PRINCIPIA MATHEMATICA. 187
+
+post longa temporum intervalla redeuntium, determinanda relinquo.
+Interea huic negotio Propositio sequens lumen accendere potest.
+
+PROPOSITIO XLII. PROBLEMA XXII..
+
+Inventam cometae trajectorz'am cm·rige7·e. ,
+
+Operatio l. ‘Assumatur positio plani trajector-iae, per Propositionem
+superiorem inventa} et seligantur tria loca cometae observationibus accu-
+ratissimis definita, et ab invicem quammaxime distantia3 sitque A tempus
+inter primam et secundam, ac B tempus inter secundam ac tertiam.
+Cometam autem in eorum aliquo (¹¹) in perigaeo versari convenit, vel sal-
+tem non longe a perigaeo abesse. (1) Ex his locis apparentibus invenian-
+tur, per operationes tr·ig0nometricaS‚ loca tria vera cometae in assumpto
+illo plano trajectoriae. Deindev per loca illa inventa, circa centrum Solis
+ceu umbilicum, per operationes arithmeticas, ope Prop. XXI. Lib. Ι.
+institutaS, describatur sectio conica: (¹¹¹) et ejus areae, radiis a Sole ad
+loca inventa ductis terminatae, sunto D et E, nempe D area inter obser-
+vationem primam et secundam, et E area inter secundam ac tertiam.
+Sitque T tempus totum, quo area tota D -Ι- Ε velocitate cometae per
+Prop. XVI. Lib. I. inventa describi debet.
+
+Oper. 2. Augeatur (¹²) longitudo nodorum plani trajectoriae3 additis ad
+longitudinem illam 20'. vel 30². quae dicantur P3 et servetur plani illius
+inclinatio ad planum eclipticae. Deinde ex praedictis tribus cometae locis
+observatis, inveniantur in hoc novo plano loca tria vera, ut supra:
+
+deinde etiam orbis per loca illa t1·ansienS‚ (⁰)et ejusdem areae duae inter
+
+(¹³) *¹ In perz‘gaeo versari convenit. versante
+enim cometa in perigaeo vel saltem non longe a
+perigaeo‚ illius motus magis accurate definitm.
+
+(¹) ¹* Ex· lzis locis apparentibus. Inveniantur
+per operationes trigonometricas (ut in Prop.
+praeced.) loca tria vera cometae in assumpto illo
+plano trajectoriae tanquam accurato, hoc est, in-
+veniamur tria prius definiti plani puncta in qui-
+bus cometa eandem longitudinem ac latitudinem
+obtineret quam revera habere observatur.
+
+(¹¹¹) * Ejus areca Ex data cometae semita
+ejusque partium magnitudine, respectu semitae
+Telluris ejusque partium, dabitur velocitas qua
+cometa iliam describit. ideoque dabitur tempus
+quo cometa areas duas jam inventas percurrit.
+'lempus illud totum dicatur T, capiaturque
+numerus C, qui sit ad 1, ut* tempus inter obser.
+vationem primam et secundam ad tempus inter
+observationem secundam et tertiam, hoc est, ut
+A ad Β. Sumatur praeterea G ad 1, ut areae
+inter observationem primam et secundam ad
+
+Vox.. 111. Pius 11. N
+
+aream inter observationem secundam et tertiam,
+id est, ut D ad E 3 eadem quoque erit ratio
+inter tempora quibus areae illae radiis ad Solem
+ductis describentur. Sit S, tempus verum inter
+observationem primam et tertiam. Si reperiatur
+T== S, et G = C, inventa plani trajectoriae
+positio vera erit et accurata, nulla indigens cor-
+rectione. Sin aliter, erit T —- S, error in tem-
+pore toto inter observationem primam et tertiam
+ortus, nimirum ex· positione plani trajectoriae
+minus accurat-4⁸1, et G - C, erit error ex eadem
+causa ortus in ratione temporis inter observatio-
+nem primam et secundam, ad tempus iuter ob-
+servationem secundam et tertiam, ut patet 3 nam
+in utroque casu unitas usurpatur pro consequente
+rationis inter bina tempora.
+
+(¹¹) ⁴¹¹ Longitudo nodorum, per num. 145.
+inventa.
+
+(0) ¹* Et ejusdem arqae duae. Harumce area-
+rum inter tres observationes radiis ad Solem
+ductis descriptarum ratio sit ut g, ad 1· ,sitque t,
+
